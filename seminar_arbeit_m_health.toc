@@ -1,3 +1,5 @@
 \contentsline {section}{\numberline {1}Grundlagen}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Definition von "DiGA"}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Fast-Track-Verfahren}{3}{}%
+\contentsline {subsection}{\numberline {1.1}Was ist eine "DiGA"?}{3}{}%
+\contentsline {subsection}{\numberline {1.2}Fast-Track-Verfahren}{4}{}%
+\contentsline {section}{\numberline {2}Informationen zu den DiGAs}{5}{}%
+\contentsline {subsection}{\numberline {2.1}Fast-Track-Verfahren}{5}{}%

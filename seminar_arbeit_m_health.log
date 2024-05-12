@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  11 MAY 2024 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  12 MAY 2024 17:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./seminar_arbeit_m_health.tex
 (seminar_arbeit_m_health.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+L3 programming layer <2024-04-11>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -48,8 +48,8 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Gin@req@width=\dimen142
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box51
 )
 (seminar_arbeit_m_health.aux)
@@ -72,16 +72,16 @@ LaTeX Font Info:    ... okay on input line 11.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count198
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\nofMPsegments=\count199
+\nofMParguments=\count266
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count266
+\MPscratchCnt=\count267
 \MPscratchDim=\dimen144
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
 \everyMPtoPDFconversion=\toks19
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -110,35 +110,73 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `seminar_arbeit_m_health.toc'.
 
  [2]
-<./grafiken/fast-track-verfahren.png, id=13, 1731.46875pt x 813.0375pt>
+Overfull \hbox (2.68457pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 Durch das Inkraft-treten des Digitale-Versorgung-Gesetzes (DVG)
+ am 19. Dezem-
+ []
+
+
+Overfull \hbox (3.13943pt too wide) in paragraph at lines 17--18
+\OT1/cmr/m/n/10 Ungef^^?ahr 73 Mil-lio-nen Ver-sicherte in der geset-zlichen Kr
+anken-ver-sicherung haben
+ []
+
+[3]
+<./grafiken/fast-track-verfahren.png, id=17, 1731.46875pt x 813.0375pt>
 File: ./grafiken/fast-track-verfahren.png Graphic file (type png)
 <use ./grafiken/fast-track-verfahren.png>
 Package pdftex.def Info: ./grafiken/fast-track-verfahren.png  used on input lin
-e 21.
+e 31.
 (pdftex.def)             Requested size: 345.0pt x 161.99672pt.
- (seminar_arbeit_m_health.bbl [3 <./grafiken/fast-track-verfahren.png>]) [4] (s
-eminar_arbeit_m_health.aux)
+
+Overfull \hbox (4.5191pt too wide) in paragraph at lines 35--36
+[]\OT1/cmr/m/n/10 In der Ab-bil-dung wird das am 27. Mai 2020 ent-standene Fast
+-Track-Verfahren
+ []
+
+[4 <./grafiken/fast-track-verfahren.png>]
+Overfull \hbox (15.84676pt too wide) in paragraph at lines 38--39
+\OT1/cmr/m/n/10 Im fol-gen-den Kapi-tel wer-den all-ge-meine In-for-ma-tio-nen 
+zu den DiGA wiedergegeben. 
+ []
+
+<./grafiken/Anzahl_Antraege_DiGA.jpg, id=22, 1263.21938pt x 719.68875pt>
+File: ./grafiken/Anzahl_Antraege_DiGA.jpg Graphic file (type jpg)
+<use ./grafiken/Anzahl_Antraege_DiGA.jpg>
+Package pdftex.def Info: ./grafiken/Anzahl_Antraege_DiGA.jpg  used on input lin
+e 41.
+(pdftex.def)             Requested size: 345.0pt x 196.55879pt.
+[5 <./grafiken/Anzahl_Antraege_DiGA.jpg>]
+<./grafiken/Ergebnis_Pruefungen_DiGA.jpg, id=26, 1240.635pt x 706.13812pt>
+File: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg Graphic file (type jpg)
+<use ./grafiken/Ergebnis_Pruefungen_DiGA.jpg>
+Package pdftex.def Info: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg  used on input
+ line 48.
+(pdftex.def)             Requested size: 345.0pt x 196.3597pt.
+ (seminar_arbeit_m_health.bbl)
+[6 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg>] (seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1325 strings out of 474424
- 22353 string characters out of 5751555
- 1931496 words of memory out of 5000000
- 23704 multiletter control sequences out of 15000+600000
- 562324 words of font info for 50 fonts, out of 8000000 for 9000
+ 1363 strings out of 474370
+ 23396 string characters out of 5750350
+ 1931754 words of memory out of 5000000
+ 23795 multiletter control sequences out of 15000+600000
+ 562659 words of font info for 51 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,1044b,226s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Progra
-m Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program Files/MiKT
-eX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type
-1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmr17.pfb>
-Output written on seminar_arbeit_m_health.pdf (4 pages, 181294 bytes).
+ 57i,6n,65p,1133b,227s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
+Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
+s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
+c/amsfonts/cm/cmr17.pfb>
+Output written on seminar_arbeit_m_health.pdf (6 pages, 424036 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
+ 56 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
