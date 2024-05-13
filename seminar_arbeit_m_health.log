@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  12 MAY 2024 17:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  13 MAY 2024 14:59
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -47,6 +47,10 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Gin@req@height=\dimen141
 \Gin@req@width=\dimen142
 )
+(C:\Program Files\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count197
@@ -55,20 +59,20 @@ File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
 (seminar_arbeit_m_health.aux)
 \openout1 = `seminar_arbeit_m_health.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 11.
-LaTeX Font Info:    ... okay on input line 11.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
@@ -92,11 +96,11 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 12.
+(Font)              <12> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 12.
+(Font)              <8> on input line 13.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 12.
+(Font)              <6> on input line 13.
  [1
 
 {C:/Users/mcthi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
@@ -110,13 +114,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \openout3 = `seminar_arbeit_m_health.toc'.
 
  [2]
-Overfull \hbox (2.68457pt too wide) in paragraph at lines 17--18
+Overfull \hbox (2.68457pt too wide) in paragraph at lines 18--19
 \OT1/cmr/m/n/10 Durch das Inkraft-treten des Digitale-Versorgung-Gesetzes (DVG)
  am 19. Dezem-
  []
 
 
-Overfull \hbox (3.13943pt too wide) in paragraph at lines 17--18
+Overfull \hbox (3.13943pt too wide) in paragraph at lines 18--19
 \OT1/cmr/m/n/10 Ungef^^?ahr 73 Mil-lio-nen Ver-sicherte in der geset-zlichen Kr
 anken-ver-sicherung haben
  []
@@ -126,57 +130,90 @@ anken-ver-sicherung haben
 File: ./grafiken/fast-track-verfahren.png Graphic file (type png)
 <use ./grafiken/fast-track-verfahren.png>
 Package pdftex.def Info: ./grafiken/fast-track-verfahren.png  used on input lin
-e 31.
+e 32.
 (pdftex.def)             Requested size: 345.0pt x 161.99672pt.
 
-Overfull \hbox (4.5191pt too wide) in paragraph at lines 35--36
+Overfull \hbox (4.5191pt too wide) in paragraph at lines 36--37
 []\OT1/cmr/m/n/10 In der Ab-bil-dung wird das am 27. Mai 2020 ent-standene Fast
 -Track-Verfahren
  []
 
 [4 <./grafiken/fast-track-verfahren.png>]
-Overfull \hbox (15.84676pt too wide) in paragraph at lines 38--39
-\OT1/cmr/m/n/10 Im fol-gen-den Kapi-tel wer-den all-ge-meine In-for-ma-tio-nen 
-zu den DiGA wiedergegeben. 
- []
-
 <./grafiken/Anzahl_Antraege_DiGA.jpg, id=22, 1263.21938pt x 719.68875pt>
 File: ./grafiken/Anzahl_Antraege_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Anzahl_Antraege_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Anzahl_Antraege_DiGA.jpg  used on input lin
-e 41.
+e 42.
 (pdftex.def)             Requested size: 345.0pt x 196.55879pt.
-[5 <./grafiken/Anzahl_Antraege_DiGA.jpg>]
+ [5 <./grafiken/Anzahl_Antraege_DiGA.jpg>]
 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg, id=26, 1240.635pt x 706.13812pt>
 File: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Ergebnis_Pruefungen_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg  used on input
- line 48.
+ line 49.
 (pdftex.def)             Requested size: 345.0pt x 196.3597pt.
- (seminar_arbeit_m_health.bbl)
-[6 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg>] (seminar_arbeit_m_health.aux)
+ [6 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg>]
+<./grafiken/erprobungs_phase_diga.png, id=30, 456.20438pt x 615.80063pt>
+File: ./grafiken/erprobungs_phase_diga.png Graphic file (type png)
+<use ./grafiken/erprobungs_phase_diga.png>
+Package pdftex.def Info: ./grafiken/erprobungs_phase_diga.png  used on input li
+ne 56.
+(pdftex.def)             Requested size: 203.73077pt x 275.0pt.
+ [7 <./grafiken/erprobungs_phase_diga.png>]
+<./grafiken/anwendungszeitraume_diga.png, id=37, 450.18187pt x 233.37187pt>
+File: ./grafiken/anwendungszeitraume_diga.png Graphic file (type png)
+<use ./grafiken/anwendungszeitraume_diga.png>
+Package pdftex.def Info: ./grafiken/anwendungszeitraume_diga.png  used on input
+ line 65.
+(pdftex.def)             Requested size: 345.0pt x 178.85294pt.
+<./grafiken/tabelle_preise_diga.png, id=38, 450.18187pt x 446.41782pt>
+File: ./grafiken/tabelle_preise_diga.png Graphic file (type png)
+<use ./grafiken/tabelle_preise_diga.png>
+Package pdftex.def Info: ./grafiken/tabelle_preise_diga.png  used on input line
+ 71.
+(pdftex.def)             Requested size: 345.0pt x 342.12839pt.
+ [8 <./grafiken/anwendungszeitraume_diga.png>]
+<./grafiken/tabelle_anwendungsfelder_diga.png, id=43, 449.42906pt x 512.66531pt
+>
+File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
+<use ./grafiken/tabelle_anwendungsfelder_diga.png>
+Package pdftex.def Info: ./grafiken/tabelle_anwendungsfelder_diga.png  used on 
+input line 77.
+(pdftex.def)             Requested size: 241.0765pt x 275.0pt.
+ [9 <./grafiken/tabelle_preise_diga.png>] [10 <./grafiken/tabelle_anwendungsfel
+der_diga.png>]
+<./grafiken/tab_diga_verteilung.png, id=52, 986.18437pt x 236.38312pt>
+File: ./grafiken/tab_diga_verteilung.png Graphic file (type png)
+<use ./grafiken/tab_diga_verteilung.png>
+Package pdftex.def Info: ./grafiken/tab_diga_verteilung.png  used on input line
+ 84.
+(pdftex.def)             Requested size: 345.0pt x 82.69565pt.
+
+(seminar_arbeit_m_health.bbl) [11 <./grafiken/tab_diga_verteilung.png>]
+(seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1363 strings out of 474370
- 23396 string characters out of 5750350
- 1931754 words of memory out of 5000000
- 23795 multiletter control sequences out of 15000+600000
- 562659 words of font info for 51 fonts, out of 8000000 for 9000
+ 1511 strings out of 474370
+ 27085 string characters out of 5750350
+ 1932754 words of memory out of 5000000
+ 23938 multiletter control sequences out of 15000+600000
+ 563005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,6n,65p,1133b,227s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,1882b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
-c/amsfonts/cm/cmr17.pfb>
-Output written on seminar_arbeit_m_health.pdf (6 pages, 424036 bytes).
+c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
+/cmti10.pfb>
+Output written on seminar_arbeit_m_health.pdf (11 pages, 583018 bytes).
 PDF statistics:
- 56 PDF objects out of 1000 (max. 8388607)
+ 89 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 

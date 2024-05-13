@@ -3,3 +3,7 @@
 \contentsline {subsection}{\numberline {1.2}Fast-Track-Verfahren}{4}{}%
 \contentsline {section}{\numberline {2}Informationen zu den DiGAs}{5}{}%
 \contentsline {subsection}{\numberline {2.1}Fast-Track-Verfahren}{5}{}%
+\contentsline {subsection}{\numberline {2.2}Preise und Vergütungsbeiträge der DiGAs}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{10}{}%
+\contentsline {section}{\numberline {3}Informationen zu den Nutzern und Verordneten}{11}{}%
+\contentsline {subsection}{\numberline {3.1}Nutzer}{11}{}%

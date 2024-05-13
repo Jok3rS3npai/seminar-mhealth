@@ -5,44 +5,57 @@ Reallocating 'name_of_file' (item size: 1) to 6 items.
 The style file: plain.bst
 Reallocating 'name_of_file' (item size: 1) to 23 items.
 Database file #1: seminar_arbeit_marcelo.bib
-You've used 2 entries,
+Warning--entry type for "wissenswertes-diga" isn't style-file defined
+--line 51 of file seminar_arbeit_marcelo.bib
+Warning--entry type for "tipps-diga-antragsansteller" isn't style-file defined
+--line 65 of file seminar_arbeit_marcelo.bib
+Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
+while executing---line 1090 of file plain.bst
+You've used 3 entries,
             2118 wiz_defined-function locations,
-            503 strings with 4151 characters,
-and the built_in function-call counts, 428 in all, are:
-= -- 38
-> -- 14
-< -- 0
-+ -- 6
-- -- 4
-* -- 12
-:= -- 77
-add.period$ -- 6
-call.type$ -- 2
-change.case$ -- 8
+            509 strings with 4317 characters,
+and the built_in function-call counts, 675 in all, are:
+= -- 59
+> -- 21
+< -- 1
++ -- 9
+- -- 6
+* -- 23
+:= -- 115
+add.period$ -- 7
+call.type$ -- 3
+change.case$ -- 12
 chr.to.int$ -- 0
-cite$ -- 2
-duplicate$ -- 14
-empty$ -- 45
-format.name$ -- 4
-if$ -- 91
+cite$ -- 3
+duplicate$ -- 30
+empty$ -- 67
+format.name$ -- 6
+if$ -- 146
 int.to.chr$ -- 0
-int.to.str$ -- 2
-missing$ -- 0
-newline$ -- 13
-num.names$ -- 4
-pop$ -- 16
+int.to.str$ -- 3
+missing$ -- 1
+newline$ -- 16
+num.names$ -- 6
+pop$ -- 21
 preamble$ -- 1
-purify$ -- 6
+purify$ -- 9
 quote$ -- 0
-skip$ -- 16
+skip$ -- 32
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
-text.length$ -- 0
+substring$ -- 19
+swap$ -- 8
+text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
+type$ -- 12
 warning$ -- 0
-while$ -- 4
-width$ -- 3
-write$ -- 20
+while$ -- 7
+width$ -- 4
+write$ -- 27
+(There were 4 error messages)
