@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  13 MAY 2024 14:59
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  24 MAY 2024 15:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./seminar_arbeit_m_health.tex
 (seminar_arbeit_m_health.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-04-11>
+L3 programming layer <2024-03-14>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count189
-\c@section=\count190
-\c@subsection=\count191
-\c@subsubsection=\count192
-\c@paragraph=\count193
-\c@subparagraph=\count194
-\c@figure=\count195
-\c@table=\count196
+\c@part=\count188
+\c@section=\count189
+\c@subsection=\count190
+\c@subsubsection=\count191
+\c@paragraph=\count192
+\c@subparagraph=\count193
+\c@figure=\count194
+\c@table=\count195
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -52,8 +52,8 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
+File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
 \l__pdf_internal_box=\box51
 )
 (seminar_arbeit_m_health.aux)
@@ -76,16 +76,16 @@ LaTeX Font Info:    ... okay on input line 12.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
+\scratchcounter=\count197
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count199
-\nofMParguments=\count266
+\nofMPsegments=\count198
+\nofMParguments=\count199
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count267
+\MPscratchCnt=\count266
 \MPscratchDim=\dimen144
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
 \everyMPtoPDFconversion=\toks19
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -189,18 +189,27 @@ Package pdftex.def Info: ./grafiken/tab_diga_verteilung.png  used on input line
  84.
 (pdftex.def)             Requested size: 345.0pt x 82.69565pt.
 
-(seminar_arbeit_m_health.bbl) [11 <./grafiken/tab_diga_verteilung.png>]
+[11 <./grafiken/tab_diga_verteilung.png>]
+<./grafiken/tabelle_nutzung_versicherte_diga.png, id=57, 223.58531pt x 216.0571
+9pt>
+File: ./grafiken/tabelle_nutzung_versicherte_diga.png Graphic file (type png)
+<use ./grafiken/tabelle_nutzung_versicherte_diga.png>
+Package pdftex.def Info: ./grafiken/tabelle_nutzung_versicherte_diga.png  used 
+on input line 94.
+(pdftex.def)             Requested size: 258.75pt x 250.06274pt.
+ (seminar_arbeit_m_health.bbl)
+[12 <./grafiken/tabelle_nutzung_versicherte_diga.png>]
 (seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-04-11>
+L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1511 strings out of 474370
- 27085 string characters out of 5750350
- 1932754 words of memory out of 5000000
- 23938 multiletter control sequences out of 15000+600000
+ 1523 strings out of 474424
+ 28086 string characters out of 5751555
+ 1932496 words of memory out of 5000000
+ 23896 multiletter control sequences out of 15000+600000
  563005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,65p,1882b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -211,9 +220,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (11 pages, 583018 bytes).
+Output written on seminar_arbeit_m_health.pdf (12 pages, 613781 bytes).
 PDF statistics:
- 89 PDF objects out of 1000 (max. 8388607)
+ 94 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 41 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 46 words of extra memory for PDF output out of 10000 (max. 10000000)
 

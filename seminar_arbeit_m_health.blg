@@ -2,7 +2,7 @@ This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: seminar_arbeit_m_health.aux
 Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: plain.bst
+The style file: abbrv.bst
 Reallocating 'name_of_file' (item size: 1) to 23 items.
 Database file #1: seminar_arbeit_marcelo.bib
 Warning--entry type for "wissenswertes-diga" isn't style-file defined
@@ -10,16 +10,16 @@ Warning--entry type for "wissenswertes-diga" isn't style-file defined
 Warning--entry type for "tipps-diga-antragsansteller" isn't style-file defined
 --line 65 of file seminar_arbeit_marcelo.bib
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1049 of file plain.bst
+while executing---line 1049 of file abbrv.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1049 of file plain.bst
+while executing---line 1049 of file abbrv.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1090 of file plain.bst
+while executing---line 1090 of file abbrv.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1090 of file plain.bst
+while executing---line 1090 of file abbrv.bst
 You've used 3 entries,
             2118 wiz_defined-function locations,
-            509 strings with 4317 characters,
+            509 strings with 4033 characters,
 and the built_in function-call counts, 675 in all, are:
 = -- 59
 > -- 21
