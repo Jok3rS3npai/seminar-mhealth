@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  25 MAY 2024 14:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  25 MAY 2024 19:22
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -205,19 +205,41 @@ type png)
 Package pdftex.def Info: ./grafiken/abbildung_verordnungen_pro_verordneten_diga
 .png  used on input line 102.
 (pdftex.def)             Requested size: 345.0pt x 339.29367pt.
- (seminar_arbeit_m_health.bbl [12 <./grafiken/tabelle_nutzung_versicherte_diga.
-png>] [13 <./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>]) [14] (
-seminar_arbeit_m_health.aux)
+
+Overfull \hbox (7.72734pt too wide) in paragraph at lines 100--107
+\OT1/cmr/m/n/10 ver-schrieben. Unter allen Leis-tungser-bringern, die min-deste
+ns zwei DiGA-Rezepte
+ []
+
+
+Overfull \hbox (1.91727pt too wide) in paragraph at lines 100--107
+\OT1/cmr/m/n/10 aus-gestellt haben (45,0 Prozent aller Verord-nen-den), haben 5
+5,0 Prozent mehrere
+ []
+
+[12 <./grafiken/tabelle_nutzung_versicherte_diga.png>] [13 <./grafiken/abbildun
+g_verordnungen_pro_verordneten_diga.png>]
+<./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png, id=69, 224.33812pt 
+x 242.40562pt>
+File: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png Graphic file (t
+ype png)
+<use ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>
+Package pdftex.def Info: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.
+png  used on input line 109.
+(pdftex.def)             Requested size: 345.0pt x 372.82494pt.
+ (seminar_arbeit_m_health.bbl)
+[14] [15 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>]
+(seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1535 strings out of 474424
- 28811 string characters out of 5751555
+ 1547 strings out of 474424
+ 29523 string characters out of 5751555
  1932496 words of memory out of 5000000
- 23908 multiletter control sequences out of 15000+600000
+ 23920 multiletter control sequences out of 15000+600000
  563005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,65p,1877b,228s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -228,9 +250,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (14 pages, 637412 bytes).
+Output written on seminar_arbeit_m_health.pdf (15 pages, 672474 bytes).
 PDF statistics:
- 108 PDF objects out of 1000 (max. 8388607)
+ 113 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 51 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 56 words of extra memory for PDF output out of 10000 (max. 10000000)
 

@@ -6,4 +6,5 @@
 \contentsline {subsection}{\numberline {2.2}Preise und Vergütungsbeiträge der DiGAs}{8}{}%
 \contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{10}{}%
 \contentsline {section}{\numberline {3}Informationen zu den Nutzern und Verordneten}{12}{}%
-\contentsline {subsection}{\numberline {3.1}Nutzer}{12}{}%
+\contentsline {subsection}{\numberline {3.1}Nutzer und Verordneten}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Vergleich von Nutzern und Nicht-Nutzern von DiGA}{14}{}%
