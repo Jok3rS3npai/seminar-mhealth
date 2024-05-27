@@ -4,7 +4,9 @@
 \contentsline {section}{\numberline {2}Informationen zu den DiGAs}{5}{}%
 \contentsline {subsection}{\numberline {2.1}Fast-Track-Verfahren}{5}{}%
 \contentsline {subsection}{\numberline {2.2}Preise und Vergütungsbeiträge der DiGAs}{8}{}%
-\contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{10}{}%
+\contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{9}{}%
 \contentsline {section}{\numberline {3}Informationen zu den Nutzern und Verordneten}{12}{}%
 \contentsline {subsection}{\numberline {3.1}Nutzer und Verordneten}{12}{}%
 \contentsline {subsection}{\numberline {3.2}Vergleich von Nutzern und Nicht-Nutzern von DiGA}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Leistungsinanspruchnahmen von Nutzer und Nicht-Nutzern}{15}{}%
+\contentsline {section}{\numberline {4}Der Status Quo von DiGA in anderen Ländern}{17}{}%
