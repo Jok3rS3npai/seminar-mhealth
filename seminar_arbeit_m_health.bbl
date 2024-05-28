@@ -8,9 +8,25 @@ BfArM.
 BfArM.
 \newblock Wissenswertes zu diga.
 
+\bibitem{dtx-usa}
+Q.~Group.
+\newblock Exploring the u.s. regulatory framework for mobile health.
+\newblock Website, Mar. 2024.
+
+\bibitem{PECAN-Verfahren}
+D.~Oxygen.
+\newblock Pecan im Überblick.
+\newblock Website.
+
 \bibitem{TK-Report-2}
 J.~D. D. J. W. D. K.~W. Prof. Dr. Wolfgang~Greiner, Dr. Daniel~Gensorowsky.
 \newblock Diga-report 2.
 \newblock {\em Techniker Krankenkasse}, page~41, 2024.
+
+\bibitem{TK-diga-report-1}
+J.~W. M. B.~V. Prof. Dr. Wolfgang~Greiner, Daniel
+  Gensorowsky(Universität~Bielefeld).
+\newblock Diga-report 2022.
+\newblock {\em Techniker Krankenkasse}, page~65, 2022.
 
 \end{thebibliography}

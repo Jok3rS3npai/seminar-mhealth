@@ -10,3 +10,6 @@
 \contentsline {subsection}{\numberline {3.2}Vergleich von Nutzern und Nicht-Nutzern von DiGA}{14}{}%
 \contentsline {subsection}{\numberline {3.3}Leistungsinanspruchnahmen von Nutzer und Nicht-Nutzern}{15}{}%
 \contentsline {section}{\numberline {4}Der Status Quo von DiGA in anderen Ländern}{17}{}%
+\contentsline {subsection}{\numberline {4.1}PECAN-Verfahren}{17}{}%
+\contentsline {subsection}{\numberline {4.2}DtX in den USA}{18}{}%
+\contentsline {section}{\numberline {5}Fragen}{18}{}%
