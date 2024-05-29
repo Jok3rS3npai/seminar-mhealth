@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  28 MAY 2024 19:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  29 MAY 2024 13:09
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -131,7 +131,7 @@ File: ./grafiken/fast-track-verfahren.png Graphic file (type png)
 <use ./grafiken/fast-track-verfahren.png>
 Package pdftex.def Info: ./grafiken/fast-track-verfahren.png  used on input lin
 e 33.
-(pdftex.def)             Requested size: 172.5pt x 80.99835pt.
+(pdftex.def)             Requested size: 258.75pt x 121.49133pt.
 
 Overfull \hbox (4.5191pt too wide) in paragraph at lines 37--38
 []\OT1/cmr/m/n/10 In der Ab-bil-dung wird das am 27. Mai 2020 ent-standene Fast
@@ -144,67 +144,70 @@ File: ./grafiken/Anzahl_Antraege_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Anzahl_Antraege_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Anzahl_Antraege_DiGA.jpg  used on input lin
 e 44.
-(pdftex.def)             Requested size: 172.5pt x 98.2739pt.
+(pdftex.def)             Requested size: 258.75pt x 147.41635pt.
  [5 <./grafiken/Anzahl_Antraege_DiGA.jpg>]
 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg, id=26, 1240.635pt x 706.13812pt>
 File: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Ergebnis_Pruefungen_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg  used on input
  line 52.
-(pdftex.def)             Requested size: 172.5pt x 98.17984pt.
+(pdftex.def)             Requested size: 258.75pt x 147.26978pt.
  [6 <./grafiken/Ergebnis_Pruefungen_DiGA.jpg>]
 <./grafiken/erprobungs_phase_diga.png, id=30, 456.20438pt x 615.80063pt>
 File: ./grafiken/erprobungs_phase_diga.png Graphic file (type png)
 <use ./grafiken/erprobungs_phase_diga.png>
 Package pdftex.def Info: ./grafiken/erprobungs_phase_diga.png  used on input li
 ne 60.
-(pdftex.def)             Requested size: 203.73077pt x 275.0pt.
- [7 <./grafiken/erprobungs_phase_diga.png>]
-<./grafiken/anwendungszeitraume_diga.png, id=37, 450.18187pt x 233.37187pt>
+(pdftex.def)             Requested size: 305.59964pt x 412.5pt.
+<./grafiken/anwendungszeitraume_diga.png, id=32, 450.18187pt x 233.37187pt>
 File: ./grafiken/anwendungszeitraume_diga.png Graphic file (type png)
 <use ./grafiken/anwendungszeitraume_diga.png>
 Package pdftex.def Info: ./grafiken/anwendungszeitraume_diga.png  used on input
  line 70.
-(pdftex.def)             Requested size: 172.5pt x 89.4229pt.
-<./grafiken/tabelle_preise_diga.png, id=38, 450.18187pt x 446.41782pt>
+(pdftex.def)             Requested size: 258.75pt x 134.14148pt.
+<./grafiken/tabelle_preise_diga.png, id=33, 450.18187pt x 446.41782pt>
 File: ./grafiken/tabelle_preise_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_preise_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_preise_diga.png  used on input line
  77.
-(pdftex.def)             Requested size: 172.5pt x 171.05737pt.
- [8 <./grafiken/anwendungszeitraume_diga.png>]
-<./grafiken/tabelle_anwendungsfelder_diga.png, id=43, 449.42906pt x 512.66531pt
+(pdftex.def)             Requested size: 258.75pt x 256.59969pt.
+ [7] [8 <./grafiken/erprobungs_phase_diga.png>]
+<./grafiken/tabelle_anwendungsfelder_diga.png, id=42, 449.42906pt x 512.66531pt
 >
 File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_anwendungsfelder_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_anwendungsfelder_diga.png  used on 
 input line 84.
-(pdftex.def)             Requested size: 241.0765pt x 275.0pt.
- [9 <./grafiken/tabelle_preise_diga.png>] [10 <./grafiken/tabelle_anwendungsfel
-der_diga.png>]
-<./grafiken/tab_diga_verteilung.png, id=52, 986.18437pt x 236.38312pt>
+(pdftex.def)             Requested size: 361.62161pt x 412.5pt.
+
+Overfull \hbox (16.62161pt too wide) in paragraph at lines 84--85
+ [][] 
+ []
+
+[9 <./grafiken/anwendungszeitraume_diga.png>] [10 <./grafiken/tabelle_preise_di
+ga.png>] [11 <./grafiken/tabelle_anwendungsfelder_diga.png>]
+<./grafiken/tab_diga_verteilung.png, id=55, 986.18437pt x 236.38312pt>
 File: ./grafiken/tab_diga_verteilung.png Graphic file (type png)
 <use ./grafiken/tab_diga_verteilung.png>
 Package pdftex.def Info: ./grafiken/tab_diga_verteilung.png  used on input line
  92.
-(pdftex.def)             Requested size: 172.5pt x 41.34602pt.
-
-[11 <./grafiken/tab_diga_verteilung.png>]
-<./grafiken/tabelle_nutzung_versicherte_diga.png, id=57, 223.58531pt x 216.0571
+(pdftex.def)             Requested size: 258.75pt x 62.02083pt.
+ [12 <./grafiken/tab_diga_verteilung.png>]
+<./grafiken/tabelle_nutzung_versicherte_diga.png, id=60, 223.58531pt x 216.0571
 9pt>
 File: ./grafiken/tabelle_nutzung_versicherte_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_nutzung_versicherte_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_nutzung_versicherte_diga.png  used 
 on input line 103.
-(pdftex.def)             Requested size: 172.5pt x 166.6942pt.
-<./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=58, 227.34938pt
+(pdftex.def)             Requested size: 258.75pt x 250.06274pt.
+<./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=61, 227.34938pt
  x 223.58531pt>
 File: ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png Graphic file (
 type png)
 <use ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>
 Package pdftex.def Info: ./grafiken/abbildung_verordnungen_pro_verordneten_diga
 .png  used on input line 112.
-(pdftex.def)             Requested size: 172.5pt x 169.64684pt.
+(pdftex.def)             Requested size: 258.75pt x 254.47025pt.
 
 Overfull \hbox (7.72734pt too wide) in paragraph at lines 109--117
 \OT1/cmr/m/n/10 ver-schrieben. Unter allen Leis-tungser-bringern, die min-deste
@@ -217,23 +220,23 @@ Overfull \hbox (1.91727pt too wide) in paragraph at lines 109--117
 5,0 Prozent mehrere
  []
 
-[12 <./grafiken/tabelle_nutzung_versicherte_diga.png>] [13 <./grafiken/abbildun
-g_verordnungen_pro_verordneten_diga.png>]
-<./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png, id=69, 224.33812pt 
+[13 <./grafiken/tabelle_nutzung_versicherte_diga.png>] [14 <./grafiken/abbildun
+g_verordnungen_pro_verordneten_diga.png>] [15]
+<./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png, id=75, 224.33812pt 
 x 242.40562pt>
 File: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png Graphic file (t
 ype png)
 <use ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.
 png  used on input line 121.
-(pdftex.def)             Requested size: 172.5pt x 186.39767pt.
+(pdftex.def)             Requested size: 258.75pt x 279.6187pt.
 
 Overfull \hbox (20.6674pt too wide) in paragraph at lines 125--126
 \OT1/cmr/m/n/10 tersverteilung (siehe Ab-bil-dung 11[]) { einen sig-nifikant ni
 edrigeren Ko-mor-bidit^^?atsgrad
  []
 
-[14 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>]
+[16 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>]
 Overfull \hbox (1.23662pt too wide) in paragraph at lines 128--128
 \OT1/cmr/m/n/10 zeigen DiGA-Nutzer eine h^^?ohere Ten-denz zu Ar-beit-sunf^^?ah
 igkeitstagen, als Nicht-
@@ -251,7 +254,7 @@ Overfull \hbox (2.69388pt too wide) in paragraph at lines 131--131
 e, DDD) im Kalen-
  []
 
-[15]
+[17]
 Overfull \hbox (33.0283pt too wide) in paragraph at lines 133--134
 []\OT1/cmr/m/n/10 Insgesamt zeigen die ver-gle-ichen-den Anal-y-sen Un-ter-schi
 ede in den Ver-sorgungsstruk-
@@ -263,7 +266,7 @@ Overfull \hbox (2.44499pt too wide) in paragraph at lines 133--134
 lichen Mor-bidit^^?atsprofil.
  []
 
-[16]
+[18]
 Overfull \hbox (0.52954pt too wide) in paragraph at lines 135--135
 []\OT1/cmr/bx/n/14.4 Der Sta-tus Quo von DiGA in an-deren L^^?andern 
  []
@@ -280,28 +283,66 @@ Overfull \hbox (17.93587pt too wide) in paragraph at lines 136--137
 es Digitalen-Versorgungs-
  []
 
-<./grafiken/abbildung-diga-versus-pecan.png, id=80, 1138.2525pt x 569.87906pt>
+<./grafiken/abbildung-diga-versus-pecan.png, id=86, 1138.2525pt x 569.87906pt>
 File: ./grafiken/abbildung-diga-versus-pecan.png Graphic file (type png)
 <use ./grafiken/abbildung-diga-versus-pecan.png>
 Package pdftex.def Info: ./grafiken/abbildung-diga-versus-pecan.png  used on in
 put line 140.
-(pdftex.def)             Requested size: 172.5pt x 86.36511pt.
-[17 <./grafiken/abbildung-diga-versus-pecan.png>] (seminar_arbeit_m_health.bbl
+(pdftex.def)             Requested size: 258.75pt x 129.54768pt.
+[19 <./grafiken/abbildung-diga-versus-pecan.png>]
+<./grafiken/abbildung-verschreibungstrend.png, id=92, 504.38437pt x 293.59688pt
+>
+File: ./grafiken/abbildung-verschreibungstrend.png Graphic file (type png)
+<use ./grafiken/abbildung-verschreibungstrend.png>
+Package pdftex.def Info: ./grafiken/abbildung-verschreibungstrend.png  used on 
+input line 153.
+(pdftex.def)             Requested size: 258.75pt x 150.61496pt.
+
+Overfull \hbox (7.30965pt too wide) in paragraph at lines 157--158
+[]\OT1/cmr/m/n/10 Seit der 1. DiGA Ver-schrei-bung 2020, gibt es einen ein-deut
+i-gen Aufw^^?artstrend,
+ []
+
+[20 <./grafiken/abbildung-verschreibungstrend.png>]
+Overfull \hbox (16.91733pt too wide) in paragraph at lines 161--162
+\OT1/cmr/m/n/10 Nimmt man alle In-for-ma-tio-nen die in Kapi-tel 3 und dessen u
+nter Kapi-tel beschrieben
+ []
+
+
+Overfull \hbox (2.36172pt too wide) in paragraph at lines 161--162
+\OT1/cmr/m/n/10 tun-gen wie Kranken-haus Tagen, Am-bu-lanten Arztbe-suche oder 
+^^?ahnlichem liegen. 
+ []
+
+
+Overfull \hbox (17.62917pt too wide) in paragraph at lines 162--162
+[]\OT1/cmr/bx/n/12 Wie steht Deutsch-land im Ver-gle-ich zu an-deren L^^?andern
+? 
+ []
+
+[21]
+Overfull \hbox (11.2783pt too wide) in paragraph at lines 165--166
+\OT1/cmr/m/n/10 jetzt wur-den fast 50 % aller gestell-ten Antr^^?age vom Her-st
+eller selbst zur^^?uckgezogen,
+ []
+
+(seminar_arbeit_m_health.bbl
 Underfull \hbox (badness 10000) in paragraph at lines 27--31
 []\OT1/cmr/m/n/10 J. W. M. B. V. Prof. Dr. Wolf-gang Greiner, Daniel Gen-
  []
 
-) [18] (seminar_arbeit_m_health.aux)
+) [22] (seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1563 strings out of 474370
- 29730 string characters out of 5750350
- 1934754 words of memory out of 5000000
- 23990 multiletter control sequences out of 15000+600000
+ 1576 strings out of 474370
+ 30311 string characters out of 5750350
+ 1936754 words of memory out of 5000000
+ 24003 multiletter control sequences out of 15000+600000
  563005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  57i,7n,65p,1877b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -312,9 +353,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (18 pages, 738149 bytes).
+Output written on seminar_arbeit_m_health.pdf (22 pages, 759005 bytes).
 PDF statistics:
- 124 PDF objects out of 1000 (max. 8388607)
+ 139 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 61 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 66 words of extra memory for PDF output out of 10000 (max. 10000000)
 
