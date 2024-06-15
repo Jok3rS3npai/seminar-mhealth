@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  15 JUN 2024 12:53
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  15 JUN 2024 15:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -174,46 +174,50 @@ Package pdftex.def Info: ./grafiken/tabelle_preise_diga.png  used on input line
 (pdftex.def)             Requested size: 258.75pt x 256.59969pt.
  [7 <./grafiken/anwendungszeitraume_diga.png>] [8 <./grafiken/tabelle_preise_di
 ga.png>]
+Overfull \hbox (22.16727pt too wide) in paragraph at lines 84--85
+\OT1/cmr/m/n/10 Nutzung von DiGA. Zus^^?atzlich schl^^?agt der GKV-Spitzenverba
+nd vor eine verbindliche
+ []
+
 <./grafiken/tabelle_anwendungsfelder_diga.png, id=44, 449.42906pt x 512.66531pt
 >
 File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_anwendungsfelder_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_anwendungsfelder_diga.png  used on 
-input line 86.
+input line 89.
 (pdftex.def)             Requested size: 241.0765pt x 275.0pt.
- [9 <./grafiken/tabelle_anwendungsfelder_diga.png>] [10]
+[9] [10 <./grafiken/tabelle_anwendungsfelder_diga.png>]
 <./grafiken/tab_diga_verteilung.png, id=52, 986.18437pt x 236.38312pt>
 File: ./grafiken/tab_diga_verteilung.png Graphic file (type png)
 <use ./grafiken/tab_diga_verteilung.png>
 Package pdftex.def Info: ./grafiken/tab_diga_verteilung.png  used on input line
- 94.
+ 97.
 (pdftex.def)             Requested size: 258.75pt x 62.02083pt.
 <./grafiken/tabelle_nutzung_versicherte_diga.png, id=53, 223.58531pt x 216.0571
 9pt>
 File: ./grafiken/tabelle_nutzung_versicherte_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_nutzung_versicherte_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_nutzung_versicherte_diga.png  used 
-on input line 105.
+on input line 108.
 (pdftex.def)             Requested size: 172.5pt x 166.6942pt.
-
-[11 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versichert
-e_diga.png>]
+ [11 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versicher
+te_diga.png>]
 <./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=60, 227.34938pt
  x 223.58531pt>
 File: ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png Graphic file (
 type png)
 <use ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>
 Package pdftex.def Info: ./grafiken/abbildung_verordnungen_pro_verordneten_diga
-.png  used on input line 114.
+.png  used on input line 117.
 (pdftex.def)             Requested size: 258.75pt x 254.47025pt.
 
-Overfull \hbox (7.72734pt too wide) in paragraph at lines 111--119
+Overfull \hbox (7.72734pt too wide) in paragraph at lines 114--122
 \OT1/cmr/m/n/10 ver-schrieben. Unter allen Leis-tungser-bringern, die min-deste
 ns zwei DiGA-Rezepte
  []
 
 
-Overfull \hbox (1.91727pt too wide) in paragraph at lines 111--119
+Overfull \hbox (1.91727pt too wide) in paragraph at lines 114--122
 \OT1/cmr/m/n/10 aus-gestellt haben (45,0 Prozent aller Verord-nen-den), haben 5
 5,0 Prozent mehrere
  []
@@ -225,57 +229,57 @@ File: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png Graphic file (t
 ype png)
 <use ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.
-png  used on input line 123.
+png  used on input line 126.
 (pdftex.def)             Requested size: 258.75pt x 279.6187pt.
 
-Overfull \hbox (20.6674pt too wide) in paragraph at lines 127--128
+Overfull \hbox (20.6674pt too wide) in paragraph at lines 130--131
 \OT1/cmr/m/n/10 tersverteilung (siehe Ab-bil-dung 11[]) { einen sig-nifikant ni
 edrigeren Ko-mor-bidit^^?atsgrad
  []
 
 [13 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>]
-Overfull \hbox (1.23662pt too wide) in paragraph at lines 130--130
+Overfull \hbox (1.23662pt too wide) in paragraph at lines 133--133
 \OT1/cmr/m/n/10 zeigen DiGA-Nutzer eine h^^?ohere Ten-denz zu Ar-beit-sunf^^?ah
 igkeitstagen, als Nicht-
  []
 
 
-Overfull \hbox (6.47285pt too wide) in paragraph at lines 132--132
+Overfull \hbox (6.47285pt too wide) in paragraph at lines 135--135
 \OT1/cmr/m/n/10 ge-bi-eten im Beobach-tungszeitraum auf 4,8 (Psychische- und Ve
 r-hal-tensst^^?orungen)
  []
 
 
-Overfull \hbox (2.69388pt too wide) in paragraph at lines 133--133
+Overfull \hbox (2.69388pt too wide) in paragraph at lines 136--136
 \OT1/cmr/m/n/10 die ve-rabre-ichten Arzneimittel-Tagesdosen (De-fined Daily Dos
 e, DDD) im Kalen-
  []
 
 [14]
-Overfull \hbox (33.0283pt too wide) in paragraph at lines 135--136
+Overfull \hbox (33.0283pt too wide) in paragraph at lines 138--139
 []\OT1/cmr/m/n/10 Insgesamt zeigen die ver-gle-ichen-den Anal-y-sen Un-ter-schi
 ede in den Ver-sorgungsstruk-
  []
 
 
-Overfull \hbox (2.44499pt too wide) in paragraph at lines 135--136
+Overfull \hbox (2.44499pt too wide) in paragraph at lines 138--139
 \OT1/cmr/m/n/10 Ver-gle-ich zu Nicht-Nutzern, trotz eines gle-ichen oder ^^?ahn
 lichen Mor-bidit^^?atsprofil.
  []
 
 
-Overfull \hbox (0.52954pt too wide) in paragraph at lines 139--139
+Overfull \hbox (0.52954pt too wide) in paragraph at lines 142--142
 []\OT1/cmr/bx/n/14.4 Der Sta-tus Quo von DiGA in an-deren L^^?andern 
  []
 
 
-Overfull \hbox (24.90335pt too wide) in paragraph at lines 140--141
+Overfull \hbox (24.90335pt too wide) in paragraph at lines 143--144
 \OT1/cmr/m/n/10 Die Einf^^?uhrung der "App auf Rezept" als Regelleis-tung der G
 eset-zlichen Krankenkasse
  []
 
 
-Overfull \hbox (17.93587pt too wide) in paragraph at lines 140--141
+Overfull \hbox (17.93587pt too wide) in paragraph at lines 143--144
 \OT1/cmr/m/n/10 Krankheiten in der Form einzi-gar-tig. Seit der Einf^^?uhrung d
 es Digitalen-Versorgungs-
  []
@@ -285,41 +289,41 @@ es Digitalen-Versorgungs-
 File: ./grafiken/abbildung-diga-versus-pecan.png Graphic file (type png)
 <use ./grafiken/abbildung-diga-versus-pecan.png>
 Package pdftex.def Info: ./grafiken/abbildung-diga-versus-pecan.png  used on in
-put line 145.
+put line 148.
 (pdftex.def)             Requested size: 258.75pt x 129.54768pt.
  [16 <./grafiken/abbildung-diga-versus-pecan.png>]
 <./grafiken/belgien_validation_pyramide.png, id=82, 521.69907pt x 237.88875pt>
 File: ./grafiken/belgien_validation_pyramide.png Graphic file (type png)
 <use ./grafiken/belgien_validation_pyramide.png>
 Package pdftex.def Info: ./grafiken/belgien_validation_pyramide.png  used on in
-put line 158.
+put line 161.
 (pdftex.def)             Requested size: 345.0pt x 157.31558pt.
 
-Overfull \hbox (10.99995pt too wide) in paragraph at lines 165--166
+Overfull \hbox (10.99995pt too wide) in paragraph at lines 168--169
 []\OT1/cmr/m/n/10 Wie alle bish-eri-gen Eu-rop^^?aischen Ver-fahren muss die Ge
 sund-
  []
 
 [17 <./grafiken/belgien_validation_pyramide.png>]
-Overfull \hbox (23.2352pt too wide) in paragraph at lines 172--173
+Overfull \hbox (23.2352pt too wide) in paragraph at lines 175--176
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung wurde vom NI-HDI auf Ba-sis von 
 vorgelegter
  []
 
 
-Overfull \hbox (2.65285pt too wide) in paragraph at lines 173--174
+Overfull \hbox (2.65285pt too wide) in paragraph at lines 176--177
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung muss noch fol-gende aus vie-len 
 weit-
  []
 
 
-Overfull \hbox (29.97278pt too wide) in paragraph at lines 173--174
+Overfull \hbox (29.97278pt too wide) in paragraph at lines 176--177
 \OT1/cmr/m/n/10 eren ICT-Kriterien, um eine sichere Verbindung und In-te-gra-ti
 on zu gew^^?ahrleisten,
  []
 
 
-Overfull \hbox (39.0362pt too wide) in paragraph at lines 185--186
+Overfull \hbox (39.0362pt too wide) in paragraph at lines 188--189
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung hat bere-its ihren sozio^^?okono
 mischen
  []
@@ -330,34 +334,34 @@ mischen
 File: ./grafiken/abbildung-verschreibungstrend.png Graphic file (type png)
 <use ./grafiken/abbildung-verschreibungstrend.png>
 Package pdftex.def Info: ./grafiken/abbildung-verschreibungstrend.png  used on 
-input line 196.
+input line 199.
 (pdftex.def)             Requested size: 258.75pt x 150.61496pt.
 
-Overfull \hbox (7.30965pt too wide) in paragraph at lines 200--201
+Overfull \hbox (7.30965pt too wide) in paragraph at lines 203--204
 []\OT1/cmr/m/n/10 Seit der 1. DiGA Ver-schrei-bung 2020, gibt es einen ein-deut
 i-gen Aufw^^?artstrend,
  []
 
 
-Overfull \hbox (16.91733pt too wide) in paragraph at lines 204--205
+Overfull \hbox (16.91733pt too wide) in paragraph at lines 207--208
 \OT1/cmr/m/n/10 Nimmt man alle In-for-ma-tio-nen die in Kapi-tel 3 und dessen u
 nter Kapi-tel beschrieben
  []
 
 
-Overfull \hbox (2.36172pt too wide) in paragraph at lines 204--205
+Overfull \hbox (2.36172pt too wide) in paragraph at lines 207--208
 \OT1/cmr/m/n/10 tun-gen wie Kranken-haus Tagen, Am-bu-lanten Arztbe-suche oder 
 ^^?ahnlichem liegen. 
  []
 
 [19 <./grafiken/abbildung-verschreibungstrend.png>]
-Overfull \hbox (17.62917pt too wide) in paragraph at lines 205--205
+Overfull \hbox (17.62917pt too wide) in paragraph at lines 208--208
 []\OT1/cmr/bx/n/12 Wie steht Deutsch-land im Ver-gle-ich zu an-deren L^^?andern
 ? 
  []
 
 
-Overfull \hbox (11.2783pt too wide) in paragraph at lines 208--209
+Overfull \hbox (11.2783pt too wide) in paragraph at lines 211--212
 \OT1/cmr/m/n/10 jetzt wur-den fast 50 % aller gestell-ten Antr^^?age vom Her-st
 eller selbst zur^^?uckgezogen,
  []
@@ -388,7 +392,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (21 pages, 834132 bytes).
+Output written on seminar_arbeit_m_health.pdf (21 pages, 834770 bytes).
 PDF statistics:
  139 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
