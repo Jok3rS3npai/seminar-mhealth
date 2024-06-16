@@ -1,4 +1,4 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{belgien-pyramide}
 Validation pyramid.
@@ -10,6 +10,11 @@ BfArM.
 \newblock Tipps für diga-antragsansteller.
 \newblock URL:
   \url{https://www.bfarm.de/DE/Aktuelles/Blog/_docs/2021-10-06-tipps-diga-antragsteller.html}.
+
+\bibitem{BfArM-Fast-TrackVerfahren}
+BfArM.
+\newblock Wie funktioniert das fast-track-verfahren.
+\newblock URL: \url{https://diga.bfarm.de/de/diga-hersteller}.
 
 \bibitem{wissenswertes-diga}
 BfArM.
@@ -36,8 +41,10 @@ Giulio~Galiazzo Jovan~Stevovic.
 \newblock Digital therapeutics (dtx): how to get reimbursed in the eu, uk and
   the us. an overview of the existing regulatory frameworks.
 \newblock Website, July 2022.
+\newblock Bei der url das "Backslash" rausmachen. Es ist drin, weil sonst
+  würde die URL keinen Zeilenumbruch machen´.
 \newblock URL:
-  \url{https://blog.chino.io/dtx-how-to-get-reimbursed-in-the-eu-uk-and-the-us-an-overview-\-of-the-existing-regulatory-frameworks/}.
+  \url{https://blog.chino.io/dtx-how-to-get-reimbursed-in-the-eu-uk-and-the-us-an-overview-\of-the-existing-regulatory-frameworks/}.
 
 \bibitem{PECAN-Verfahren}
 Digital Oxygen.
@@ -51,7 +58,6 @@ Jana Diekmannshemke Dr. Julian Witte Dr. Katharina~Weine Prof. Dr.
   Wolfgang~Greiner, Dr. Daniel~Gensorowsky.
 \newblock Diga-report 2.
 \newblock {\em Techniker Krankenkasse}, page~41, 2024.
-\newblock Halli hallo.
 \newblock URL:
   \url{https://www.tk.de/resource/blob/2170850/e7eaa59ecbc0488b415409d5d3a354cf/tk-diga-report-2-2024-data.pdf}.
 

@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.16)  16 JUN 2024 18:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.16)  16 JUN 2024 19:55
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -395,45 +395,81 @@ Underfull \hbox (badness 10000) in paragraph at lines 258--272
  []
 
 [26 <./grafiken/unterschrift.png>] (seminar_arbeit_m_health.bbl
-Underfull \hbox (badness 1442) in paragraph at lines 4--7
-[]\OT1/cmr/m/n/10 Validation py-ra-mid.  Web-si-te.  URL: $\OT1/cmtt/m/n/10 htt
-ps : / / mhealthbelgium . be /
+Underfull \hbox (badness 10000) in paragraph at lines 9--13
+\OT1/cmtt/m/n/10 DE / Aktuelles / Blog / _docs / 2021-[]10-[]06-[]tipps-[]diga-
+[]antragsteller .
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 15--19
-[]\OT1/cmr/m/n/10 BfArM.  Wis-sens-wer-tes zu di-ga.  URL: $\OT1/cmtt/m/n/10 ht
-tps : / / www . bfarm . de / DE /
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 15--19
+Underfull \hbox (badness 10000) in paragraph at lines 20--24
 \OT1/cmtt/m/n/10 Medizinprodukte / Aufgaben / DiGA-[]und-[]DiPA / DiGA / Wissen
 swertes /
  []
 
 
-Overfull \hbox (8.3027pt too wide) in paragraph at lines 35--41
+Underfull \hbox (badness 4940) in paragraph at lines 40--48
+\OT1/cmr/m/n/10 "Backs-lash"rausmachen. Es ist drin, weil sonst w[]urde die URL
+
+ []
+
+
+Underfull \hbox (badness 5446) in paragraph at lines 40--48
+\OT1/cmr/m/n/10 kei-nen Zei-le-num-bruch ma-chen\TS1/cmr/m/n/10 ´\OT1/cmr/m/n/1
+0 .  URL: $\OT1/cmtt/m/n/10 https : / / blog . chino . io /
+ []
+
+
+Overfull \hbox (13.30272pt too wide) in paragraph at lines 40--48
 \OT1/cmtt/m/n/10 dtx-[]how-[]to-[]get-[]reimbursed-[]in-[]the-[]eu-[]uk-[]and-[
 ]the-[]us-[]an-[]overview-[] \
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 43--48
+Underfull \hbox (badness 1005) in paragraph at lines 50--55
 []\OT1/cmr/m/n/10 Digital Oxy-gen.  Pe-can im []Uberblick.  Web-si-te.  URL: $\
 OT1/cmtt/m/n/10 https : / /
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 50--57
-[]\OT1/cmr/m/n/10 Jana Diek-manns-hem-ke Dr. Ju-li-an Wit-te Dr. Ka-tha-ri-na W
-ei-ne Prof.
+Underfull \hbox (badness 3503) in paragraph at lines 57--63
+\OT1/cmr/m/n/10 Dr. Wolf-gang Grei-ner, Dr. Da-niel Gen-so-row-sky.  Diga-repor
+t 2.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--57
-\OT1/cmtt/m/n/10 tk . de / resource / blob / 2170850 / e7eaa59ecbc0488b415409d5
-d3a354cf /
+Underfull \hbox (badness 2884) in paragraph at lines 57--63
+\OT1/cmr/m/it/10 Tech-ni-ker Kran-ken-kas-se\OT1/cmr/m/n/10 , pa-ge 41, 2024.  
+URL: $\OT1/cmtt/m/n/10 https : / / www . tk .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 57--63
+\OT1/cmtt/m/n/10 de / resource / blob / 2170850 / e7eaa59ecbc0488b415409d5d3a35
+4cf /
+ []
+
+
+Underfull \hbox (badness 1997) in paragraph at lines 65--71
+[]\OT1/cmr/m/n/10 Julian Wit-te Ma-nu-el Ba-tram (Van-da-ge) Prof. Dr. Wolf-gan
+g Grei-
+ []
+
+
+Underfull \hbox (badness 2600) in paragraph at lines 65--71
+\OT1/cmr/m/n/10 ner, Da-niel Gen-so-row-sky(Universit[]at Bie-le-feld).  Diga-r
+eport 2022.
+ []
+
+
+Underfull \hbox (badness 2884) in paragraph at lines 65--71
+\OT1/cmr/m/it/10 Tech-ni-ker Kran-ken-kas-se\OT1/cmr/m/n/10 , pa-ge 65, 2022.  
+URL: $\OT1/cmtt/m/n/10 https : / / www . tk .
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 65--71
+\OT1/cmtt/m/n/10 de / resource / blob / 2125136 / dd3d3dbafcfaef0984dcf8576b1d7
+713 /
  []
 
 ) [27] (seminar_arbeit_m_health.aux)
@@ -443,13 +479,13 @@ L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 3351 strings out of 474370
- 64048 string characters out of 5750350
+ 3354 strings out of 474370
+ 64108 string characters out of 5750350
  1937754 words of memory out of 5000000
- 25719 multiletter control sequences out of 15000+600000
+ 25722 multiletter control sequences out of 15000+600000
  563173 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,7n,67p,1879b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,7n,67p,1879b,296s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -458,9 +494,9 @@ s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on seminar_arbeit_m_health.pdf (27 pages, 1416396 bytes).
+Output written on seminar_arbeit_m_health.pdf (27 pages, 1417014 bytes).
 PDF statistics:
- 169 PDF objects out of 1000 (max. 8388607)
+ 170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  86 words of extra memory for PDF output out of 10000 (max. 10000000)
 
