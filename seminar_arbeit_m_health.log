@@ -1,24 +1,24 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.3)  15 JUN 2024 15:44
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  16 JUN 2024 17:21
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **./seminar_arbeit_m_health.tex
 (seminar_arbeit_m_health.tex
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+L3 programming layer <2024-04-11>
 (C:\Program Files\MiKTeX\tex/latex/base\article.cls
 Document Class: article 2023/05/17 v1.4n Standard LaTeX document class
 (C:\Program Files\MiKTeX\tex/latex/base\size10.clo
 File: size10.clo 2023/05/17 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count188
-\c@section=\count189
-\c@subsection=\count190
-\c@subsubsection=\count191
-\c@paragraph=\count192
-\c@subparagraph=\count193
-\c@figure=\count194
-\c@table=\count195
+\c@part=\count189
+\c@section=\count190
+\c@subsection=\count191
+\c@subsubsection=\count192
+\c@paragraph=\count193
+\c@subparagraph=\count194
+\c@figure=\count195
+\c@table=\count196
 \abovecaptionskip=\skip48
 \belowcaptionskip=\skip49
 \bibindent=\dimen140
@@ -52,8 +52,8 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count196
+File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count197
 \l__pdf_internal_box=\box51
 )
 (seminar_arbeit_m_health.aux)
@@ -76,16 +76,16 @@ LaTeX Font Info:    ... okay on input line 12.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count197
+\scratchcounter=\count198
 \scratchdimen=\dimen143
 \scratchbox=\box52
-\nofMPsegments=\count198
-\nofMParguments=\count199
+\nofMPsegments=\count199
+\nofMParguments=\count266
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count266
+\MPscratchCnt=\count267
 \MPscratchDim=\dimen144
-\MPnumerator=\count267
-\makeMPintoPDFobject=\count268
+\MPnumerator=\count268
+\makeMPintoPDFobject=\count269
 \everyMPtoPDFconversion=\toks19
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -179,14 +179,15 @@ Overfull \hbox (22.16727pt too wide) in paragraph at lines 84--85
 nd vor eine verbindliche
  []
 
-<./grafiken/tabelle_anwendungsfelder_diga.png, id=44, 449.42906pt x 512.66531pt
+[9]
+<./grafiken/tabelle_anwendungsfelder_diga.png, id=47, 449.42906pt x 512.66531pt
 >
 File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_anwendungsfelder_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_anwendungsfelder_diga.png  used on 
 input line 89.
 (pdftex.def)             Requested size: 241.0765pt x 275.0pt.
-[9] [10 <./grafiken/tabelle_anwendungsfelder_diga.png>]
+ [10 <./grafiken/tabelle_anwendungsfelder_diga.png>]
 <./grafiken/tab_diga_verteilung.png, id=52, 986.18437pt x 236.38312pt>
 File: ./grafiken/tab_diga_verteilung.png Graphic file (type png)
 <use ./grafiken/tab_diga_verteilung.png>
@@ -267,124 +268,142 @@ Overfull \hbox (2.44499pt too wide) in paragraph at lines 138--139
 lichen Mor-bidit^^?atsprofil.
  []
 
-
-Overfull \hbox (0.52954pt too wide) in paragraph at lines 142--142
+[15]
+<./grafiken/word_cloud.png, id=77, 470.50781pt x 481.04718pt>
+File: ./grafiken/word_cloud.png Graphic file (type png)
+<use ./grafiken/word_cloud.png>
+Package pdftex.def Info: ./grafiken/word_cloud.png  used on input line 147.
+(pdftex.def)             Requested size: 258.75pt x 264.54741pt.
+ [16 <./grafiken/word_cloud.png>]
+Overfull \hbox (0.52954pt too wide) in paragraph at lines 165--165
 []\OT1/cmr/bx/n/14.4 Der Sta-tus Quo von DiGA in an-deren L^^?andern 
  []
 
+<./grafiken/venn_diagramm_anforderungen.png, id=82, 779.16093pt x 441.90094pt>
+File: ./grafiken/venn_diagramm_anforderungen.png Graphic file (type png)
+<use ./grafiken/venn_diagramm_anforderungen.png>
+Package pdftex.def Info: ./grafiken/venn_diagramm_anforderungen.png  used on in
+put line 169.
+(pdftex.def)             Requested size: 345.0pt x 195.66422pt.
 
-Overfull \hbox (24.90335pt too wide) in paragraph at lines 143--144
+Overfull \hbox (24.90335pt too wide) in paragraph at lines 166--173
 \OT1/cmr/m/n/10 Die Einf^^?uhrung der "App auf Rezept" als Regelleis-tung der G
 eset-zlichen Krankenkasse
  []
 
 
-Overfull \hbox (17.93587pt too wide) in paragraph at lines 143--144
+Overfull \hbox (17.93587pt too wide) in paragraph at lines 166--173
 \OT1/cmr/m/n/10 Krankheiten in der Form einzi-gar-tig. Seit der Einf^^?uhrung d
 es Digitalen-Versorgungs-
  []
 
-[15]
-<./grafiken/abbildung-diga-versus-pecan.png, id=77, 1138.2525pt x 569.87906pt>
+[17]
+Overfull \hbox (5.04202pt too wide) in paragraph at lines 176--177
+[]\OT1/cmr/m/n/10 Die Zus-tim-mung an zur "Gen-eral Data Pro-tec-tion Reg-u-la-
+tion" (GDPR). 
+ []
+
+[18 <./grafiken/venn_diagramm_anforderungen.png>]
+<./grafiken/abbildung-diga-versus-pecan.png, id=90, 1138.2525pt x 569.87906pt>
 File: ./grafiken/abbildung-diga-versus-pecan.png Graphic file (type png)
 <use ./grafiken/abbildung-diga-versus-pecan.png>
 Package pdftex.def Info: ./grafiken/abbildung-diga-versus-pecan.png  used on in
-put line 148.
+put line 190.
 (pdftex.def)             Requested size: 258.75pt x 129.54768pt.
- [16 <./grafiken/abbildung-diga-versus-pecan.png>]
-<./grafiken/belgien_validation_pyramide.png, id=82, 521.69907pt x 237.88875pt>
+ [19 <./grafiken/abbildung-diga-versus-pecan.png>]
+<./grafiken/belgien_validation_pyramide.png, id=96, 521.69907pt x 237.88875pt>
 File: ./grafiken/belgien_validation_pyramide.png Graphic file (type png)
 <use ./grafiken/belgien_validation_pyramide.png>
 Package pdftex.def Info: ./grafiken/belgien_validation_pyramide.png  used on in
-put line 161.
+put line 203.
 (pdftex.def)             Requested size: 345.0pt x 157.31558pt.
 
-Overfull \hbox (10.99995pt too wide) in paragraph at lines 168--169
+Overfull \hbox (10.99995pt too wide) in paragraph at lines 210--211
 []\OT1/cmr/m/n/10 Wie alle bish-eri-gen Eu-rop^^?aischen Ver-fahren muss die Ge
 sund-
  []
 
-[17 <./grafiken/belgien_validation_pyramide.png>]
-Overfull \hbox (23.2352pt too wide) in paragraph at lines 175--176
+[20 <./grafiken/belgien_validation_pyramide.png>]
+Overfull \hbox (23.2352pt too wide) in paragraph at lines 217--218
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung wurde vom NI-HDI auf Ba-sis von 
 vorgelegter
  []
 
 
-Overfull \hbox (2.65285pt too wide) in paragraph at lines 176--177
+Overfull \hbox (2.65285pt too wide) in paragraph at lines 218--219
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung muss noch fol-gende aus vie-len 
 weit-
  []
 
 
-Overfull \hbox (29.97278pt too wide) in paragraph at lines 176--177
+Overfull \hbox (29.97278pt too wide) in paragraph at lines 218--219
 \OT1/cmr/m/n/10 eren ICT-Kriterien, um eine sichere Verbindung und In-te-gra-ti
 on zu gew^^?ahrleisten,
  []
 
 
-Overfull \hbox (39.0362pt too wide) in paragraph at lines 188--189
+Overfull \hbox (39.0362pt too wide) in paragraph at lines 230--231
 []\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung hat bere-its ihren sozio^^?okono
 mischen
  []
 
-[18]
-<./grafiken/abbildung-verschreibungstrend.png, id=90, 504.38437pt x 293.59688pt
->
+[21]
+<./grafiken/abbildung-verschreibungstrend.png, id=104, 504.38437pt x 293.59688p
+t>
 File: ./grafiken/abbildung-verschreibungstrend.png Graphic file (type png)
 <use ./grafiken/abbildung-verschreibungstrend.png>
 Package pdftex.def Info: ./grafiken/abbildung-verschreibungstrend.png  used on 
-input line 199.
+input line 241.
 (pdftex.def)             Requested size: 258.75pt x 150.61496pt.
 
-Overfull \hbox (7.30965pt too wide) in paragraph at lines 203--204
+Overfull \hbox (7.30965pt too wide) in paragraph at lines 245--246
 []\OT1/cmr/m/n/10 Seit der 1. DiGA Ver-schrei-bung 2020, gibt es einen ein-deut
 i-gen Aufw^^?artstrend,
  []
 
 
-Overfull \hbox (16.91733pt too wide) in paragraph at lines 207--208
+Overfull \hbox (16.91733pt too wide) in paragraph at lines 249--250
 \OT1/cmr/m/n/10 Nimmt man alle In-for-ma-tio-nen die in Kapi-tel 3 und dessen u
 nter Kapi-tel beschrieben
  []
 
 
-Overfull \hbox (2.36172pt too wide) in paragraph at lines 207--208
+Overfull \hbox (2.36172pt too wide) in paragraph at lines 249--250
 \OT1/cmr/m/n/10 tun-gen wie Kranken-haus Tagen, Am-bu-lanten Arztbe-suche oder 
 ^^?ahnlichem liegen. 
  []
 
-[19 <./grafiken/abbildung-verschreibungstrend.png>]
-Overfull \hbox (17.62917pt too wide) in paragraph at lines 208--208
+[22 <./grafiken/abbildung-verschreibungstrend.png>]
+Overfull \hbox (17.62917pt too wide) in paragraph at lines 250--250
 []\OT1/cmr/bx/n/12 Wie steht Deutsch-land im Ver-gle-ich zu an-deren L^^?andern
 ? 
  []
 
 
-Overfull \hbox (11.2783pt too wide) in paragraph at lines 211--212
+Overfull \hbox (11.2783pt too wide) in paragraph at lines 253--254
 \OT1/cmr/m/n/10 jetzt wur-den fast 50 % aller gestell-ten Antr^^?age vom Her-st
 eller selbst zur^^?uckgezogen,
  []
 
-(seminar_arbeit_m_health.bbl [20]
-Underfull \hbox (badness 10000) in paragraph at lines 31--35
+(seminar_arbeit_m_health.bbl [23]
+Underfull \hbox (badness 10000) in paragraph at lines 42--46
 []\OT1/cmr/m/n/10 J. W. M. B. V. Prof. Dr. Wolf-gang Greiner, Daniel Gen-
  []
 
-) [21] (seminar_arbeit_m_health.aux)
+) [24] (seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
-L3 programming layer <2024-03-14>
+L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1592 strings out of 474424
- 31344 string characters out of 5751555
- 1935496 words of memory out of 5000000
- 23965 multiletter control sequences out of 15000+600000
+ 1618 strings out of 474370
+ 31900 string characters out of 5750350
+ 1935754 words of memory out of 5000000
+ 24045 multiletter control sequences out of 15000+600000
  563005 words of font info for 52 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,1877b,236s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 57i,7n,65p,1879b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -392,9 +411,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (21 pages, 834770 bytes).
+Output written on seminar_arbeit_m_health.pdf (24 pages, 1349273 bytes).
 PDF statistics:
- 139 PDF objects out of 1000 (max. 8388607)
+ 152 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 71 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 81 words of extra memory for PDF output out of 10000 (max. 10000000)
 
