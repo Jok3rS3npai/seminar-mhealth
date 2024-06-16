@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.5.12)  16 JUN 2024 17:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.16)  16 JUN 2024 18:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -51,9 +51,39 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Urlmuskip=\muskip16
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
+(C:\Program Files\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2024/04/20 v24.4 The Babel package
+\babel@savecnt=\count197
+\U@D=\dimen143
+\l@unhyphenated=\language79
+
+(C:\Program Files\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count198
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Program Files\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngerman.ldf
+Language: ngerman 2024/01/19 v2.14 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/latex/babel-german\ngermanb.ldf
+Language: ngermanb 2024/01/19 v2.14 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+)))
+(C:\Program Files\MiKTeX\tex/generic/babel/locale/de\babel-ngerman.tex
+Package babel Info: Importing font and identification data for ngerman
+(babel)             from babel-de.ini. Reported on input line 11.
+)
 (C:\Program Files\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
 File: l3backend-pdftex.def 2024-04-11 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count197
+\l__color_backend_stack_int=\count199
 \l__pdf_internal_box=\box51
 )
 (seminar_arbeit_m_health.aux)
@@ -76,21 +106,55 @@ LaTeX Font Info:    ... okay on input line 12.
 
 (C:\Program Files\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count198
-\scratchdimen=\dimen143
+\scratchcounter=\count266
+\scratchdimen=\dimen144
 \scratchbox=\box52
-\nofMPsegments=\count199
-\nofMParguments=\count266
+\nofMPsegments=\count267
+\nofMParguments=\count268
 \everyMPshowfont=\toks18
-\MPscratchCnt=\count267
-\MPscratchDim=\dimen144
-\MPnumerator=\count268
-\makeMPintoPDFobject=\count269
+\MPscratchCnt=\count269
+\MPscratchDim=\dimen145
+\MPnumerator=\count270
+\makeMPintoPDFobject=\count271
 \everyMPtoPDFconversion=\toks19
 ) (C:\Program Files\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/generic/infwarerr\infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/generic/kvdefinekeys\kvdefinekeys.st
+y
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)) (C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\mcthi\AppData\Roaming\MiKTeX\tex/latex/kvsetkeys\kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+))
+(C:\Program Files\MiKTeX\tex/generic/pdftexcmds\pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Program Files\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2022/02/03 v1.0f TeX engine tests
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 
 (C:\Program Files\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
@@ -106,314 +170,297 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 {C:/Users/mcthi/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
 (seminar_arbeit_m_health.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 2.
+(Font)              <7> on input line 3.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 2.
+(Font)              <5> on input line 3.
 )
 \tf@toc=\write3
 \openout3 = `seminar_arbeit_m_health.toc'.
 
- [2]
-Overfull \hbox (2.68457pt too wide) in paragraph at lines 18--19
-\OT1/cmr/m/n/10 Durch das Inkraft-treten des Digitale-Versorgung-Gesetzes (DVG)
- am 19. Dezem-
+ [2] (seminar_arbeit_m_health.lof
+Overfull \hbox (3.70891pt too wide) in paragraph at lines 7--7
+ [][] []\OT1/cmr/m/n/10 Gegen[]uberstellung der frei-en Her-stel-ler-prei-se un
+d ver-in-bar-ten oder 
  []
 
+)
+\tf@lof=\write4
+\openout4 = `seminar_arbeit_m_health.lof'.
 
-Overfull \hbox (3.13943pt too wide) in paragraph at lines 18--19
-\OT1/cmr/m/n/10 Ungef^^?ahr 73 Mil-lio-nen Ver-sicherte in der geset-zlichen Kr
-anken-ver-sicherung haben
- []
-
-[3]
-<./grafiken/fast-track-verfahren.png, id=17, 1731.46875pt x 813.0375pt>
+ [3] [4]
+<./grafiken/fast-track-verfahren.png, id=20, 1731.46875pt x 813.0375pt>
 File: ./grafiken/fast-track-verfahren.png Graphic file (type png)
 <use ./grafiken/fast-track-verfahren.png>
 Package pdftex.def Info: ./grafiken/fast-track-verfahren.png  used on input lin
-e 33.
+e 35.
 (pdftex.def)             Requested size: 258.75pt x 121.49133pt.
 
-Overfull \hbox (4.5191pt too wide) in paragraph at lines 37--38
-[]\OT1/cmr/m/n/10 In der Ab-bil-dung wird das am 27. Mai 2020 ent-standene Fast
--Track-Verfahren
+Overfull \hbox (2.66724pt too wide) in paragraph at lines 39--40
+[]\OT1/cmr/m/n/10 In der Ab-bil-dung wird das am 27. Mai 2020 ent-stan-de-ne Fa
+st-Track-Verfahren
  []
 
-[4 <./grafiken/fast-track-verfahren.png>]
-<./grafiken/Anzahl_Antraege_DiGA.jpg, id=22, 1263.21938pt x 719.68875pt>
+[5 <./grafiken/fast-track-verfahren.png>]
+<./grafiken/Anzahl_Antraege_DiGA.jpg, id=25, 1263.21938pt x 719.68875pt>
 File: ./grafiken/Anzahl_Antraege_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Anzahl_Antraege_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Anzahl_Antraege_DiGA.jpg  used on input lin
-e 44.
+e 46.
 (pdftex.def)             Requested size: 258.75pt x 147.41635pt.
-<./grafiken/Ergebnis_Pruefungen_DiGA.jpg, id=23, 1240.635pt x 706.13812pt>
+<./grafiken/Ergebnis_Pruefungen_DiGA.jpg, id=26, 1240.635pt x 706.13812pt>
 File: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg Graphic file (type jpg)
 <use ./grafiken/Ergebnis_Pruefungen_DiGA.jpg>
 Package pdftex.def Info: ./grafiken/Ergebnis_Pruefungen_DiGA.jpg  used on input
- line 52.
+ line 54.
 (pdftex.def)             Requested size: 258.75pt x 147.26978pt.
- [5 <./grafiken/Anzahl_Antraege_DiGA.jpg> <./grafiken/Ergebnis_Pruefungen_DiGA.
+ [6 <./grafiken/Anzahl_Antraege_DiGA.jpg> <./grafiken/Ergebnis_Pruefungen_DiGA.
 jpg>]
-<./grafiken/erprobungs_phase_diga.png, id=27, 456.20438pt x 615.80063pt>
+<./grafiken/erprobungs_phase_diga.png, id=30, 456.20438pt x 615.80063pt>
 File: ./grafiken/erprobungs_phase_diga.png Graphic file (type png)
 <use ./grafiken/erprobungs_phase_diga.png>
 Package pdftex.def Info: ./grafiken/erprobungs_phase_diga.png  used on input li
-ne 60.
+ne 62.
 (pdftex.def)             Requested size: 203.73077pt x 275.0pt.
- [6 <./grafiken/erprobungs_phase_diga.png>]
-<./grafiken/anwendungszeitraume_diga.png, id=33, 450.18187pt x 233.37187pt>
+ [7 <./grafiken/erprobungs_phase_diga.png>]
+<./grafiken/anwendungszeitraume_diga.png, id=37, 450.18187pt x 233.37187pt>
 File: ./grafiken/anwendungszeitraume_diga.png Graphic file (type png)
 <use ./grafiken/anwendungszeitraume_diga.png>
 Package pdftex.def Info: ./grafiken/anwendungszeitraume_diga.png  used on input
- line 70.
+ line 72.
 (pdftex.def)             Requested size: 258.75pt x 134.14148pt.
-<./grafiken/tabelle_preise_diga.png, id=34, 450.18187pt x 446.41782pt>
+<./grafiken/tabelle_preise_diga.png, id=38, 450.18187pt x 446.41782pt>
 File: ./grafiken/tabelle_preise_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_preise_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_preise_diga.png  used on input line
- 77.
+ 79.
 (pdftex.def)             Requested size: 258.75pt x 256.59969pt.
- [7 <./grafiken/anwendungszeitraume_diga.png>] [8 <./grafiken/tabelle_preise_di
+ [8 <./grafiken/anwendungszeitraume_diga.png>] [9 <./grafiken/tabelle_preise_di
 ga.png>]
-Overfull \hbox (22.16727pt too wide) in paragraph at lines 84--85
-\OT1/cmr/m/n/10 Nutzung von DiGA. Zus^^?atzlich schl^^?agt der GKV-Spitzenverba
-nd vor eine verbindliche
+Overfull \hbox (0.36171pt too wide) in paragraph at lines 86--87
+\OT1/cmr/m/n/10 Al-ter-na-tiv zum vor-he-ri-gen Vor-schlag, w[]are ei-ne ver-pf
+lich-ten-de R[]ucklagenbildung
  []
 
-[9]
-<./grafiken/tabelle_anwendungsfelder_diga.png, id=47, 449.42906pt x 512.66531pt
+[10]
+<./grafiken/tabelle_anwendungsfelder_diga.png, id=50, 449.42906pt x 512.66531pt
 >
 File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_anwendungsfelder_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_anwendungsfelder_diga.png  used on 
-input line 89.
+input line 91.
 (pdftex.def)             Requested size: 241.0765pt x 275.0pt.
- [10 <./grafiken/tabelle_anwendungsfelder_diga.png>]
-<./grafiken/tab_diga_verteilung.png, id=52, 986.18437pt x 236.38312pt>
+ [11 <./grafiken/tabelle_anwendungsfelder_diga.png>]
+<./grafiken/tab_diga_verteilung.png, id=55, 986.18437pt x 236.38312pt>
 File: ./grafiken/tab_diga_verteilung.png Graphic file (type png)
 <use ./grafiken/tab_diga_verteilung.png>
 Package pdftex.def Info: ./grafiken/tab_diga_verteilung.png  used on input line
- 97.
+ 99.
 (pdftex.def)             Requested size: 258.75pt x 62.02083pt.
-<./grafiken/tabelle_nutzung_versicherte_diga.png, id=53, 223.58531pt x 216.0571
+<./grafiken/tabelle_nutzung_versicherte_diga.png, id=56, 223.58531pt x 216.0571
 9pt>
 File: ./grafiken/tabelle_nutzung_versicherte_diga.png Graphic file (type png)
 <use ./grafiken/tabelle_nutzung_versicherte_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_nutzung_versicherte_diga.png  used 
-on input line 108.
+on input line 110.
 (pdftex.def)             Requested size: 172.5pt x 166.6942pt.
- [11 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versicher
+ [12 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versicher
 te_diga.png>]
-<./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=60, 227.34938pt
+<./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=63, 227.34938pt
  x 223.58531pt>
 File: ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png Graphic file (
 type png)
 <use ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>
 Package pdftex.def Info: ./grafiken/abbildung_verordnungen_pro_verordneten_diga
-.png  used on input line 117.
+.png  used on input line 119.
 (pdftex.def)             Requested size: 258.75pt x 254.47025pt.
-
-Overfull \hbox (7.72734pt too wide) in paragraph at lines 114--122
-\OT1/cmr/m/n/10 ver-schrieben. Unter allen Leis-tungser-bringern, die min-deste
-ns zwei DiGA-Rezepte
- []
-
-
-Overfull \hbox (1.91727pt too wide) in paragraph at lines 114--122
-\OT1/cmr/m/n/10 aus-gestellt haben (45,0 Prozent aller Verord-nen-den), haben 5
-5,0 Prozent mehrere
- []
-
-[12 <./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>]
-<./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png, id=65, 224.33812pt 
+ [13 <./grafiken/abbildung_verordnungen_pro_verordneten_diga.png>]
+<./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png, id=69, 224.33812pt 
 x 242.40562pt>
 File: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png Graphic file (t
 ype png)
 <use ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>
 Package pdftex.def Info: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.
-png  used on input line 126.
+png  used on input line 128.
 (pdftex.def)             Requested size: 258.75pt x 279.6187pt.
-
-Overfull \hbox (20.6674pt too wide) in paragraph at lines 130--131
-\OT1/cmr/m/n/10 tersverteilung (siehe Ab-bil-dung 11[]) { einen sig-nifikant ni
-edrigeren Ko-mor-bidit^^?atsgrad
+ [14 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>] [15]
+Overfull \hbox (9.0006pt too wide) in paragraph at lines 140--141
+\OT1/cmr/m/n/10 ta-ti-ve Ver-sor-gungs-for-schung er-for-der-lich. Da-bei sol-l
+en auch Aspek-te ber[]ucksichtigt
  []
 
-[13 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>]
-Overfull \hbox (1.23662pt too wide) in paragraph at lines 133--133
-\OT1/cmr/m/n/10 zeigen DiGA-Nutzer eine h^^?ohere Ten-denz zu Ar-beit-sunf^^?ah
-igkeitstagen, als Nicht-
- []
-
-
-Overfull \hbox (6.47285pt too wide) in paragraph at lines 135--135
-\OT1/cmr/m/n/10 ge-bi-eten im Beobach-tungszeitraum auf 4,8 (Psychische- und Ve
-r-hal-tensst^^?orungen)
- []
-
-
-Overfull \hbox (2.69388pt too wide) in paragraph at lines 136--136
-\OT1/cmr/m/n/10 die ve-rabre-ichten Arzneimittel-Tagesdosen (De-fined Daily Dos
-e, DDD) im Kalen-
- []
-
-[14]
-Overfull \hbox (33.0283pt too wide) in paragraph at lines 138--139
-[]\OT1/cmr/m/n/10 Insgesamt zeigen die ver-gle-ichen-den Anal-y-sen Un-ter-schi
-ede in den Ver-sorgungsstruk-
- []
-
-
-Overfull \hbox (2.44499pt too wide) in paragraph at lines 138--139
-\OT1/cmr/m/n/10 Ver-gle-ich zu Nicht-Nutzern, trotz eines gle-ichen oder ^^?ahn
-lichen Mor-bidit^^?atsprofil.
- []
-
-[15]
-<./grafiken/word_cloud.png, id=77, 470.50781pt x 481.04718pt>
+[16]
+<./grafiken/word_cloud.png, id=80, 470.50781pt x 481.04718pt>
 File: ./grafiken/word_cloud.png Graphic file (type png)
 <use ./grafiken/word_cloud.png>
-Package pdftex.def Info: ./grafiken/word_cloud.png  used on input line 147.
+Package pdftex.def Info: ./grafiken/word_cloud.png  used on input line 149.
 (pdftex.def)             Requested size: 258.75pt x 264.54741pt.
- [16 <./grafiken/word_cloud.png>]
-Overfull \hbox (0.52954pt too wide) in paragraph at lines 165--165
-[]\OT1/cmr/bx/n/14.4 Der Sta-tus Quo von DiGA in an-deren L^^?andern 
+ [17 <./grafiken/word_cloud.png>]
+Overfull \hbox (0.52954pt too wide) in paragraph at lines 167--167
+[]\OT1/cmr/bx/n/14.4 Der Sta-tus Quo von Di-GA in an-de-ren L[]andern 
  []
 
-<./grafiken/venn_diagramm_anforderungen.png, id=82, 779.16093pt x 441.90094pt>
+<./grafiken/venn_diagramm_anforderungen.png, id=85, 779.16093pt x 441.90094pt>
 File: ./grafiken/venn_diagramm_anforderungen.png Graphic file (type png)
 <use ./grafiken/venn_diagramm_anforderungen.png>
 Package pdftex.def Info: ./grafiken/venn_diagramm_anforderungen.png  used on in
-put line 169.
+put line 171.
 (pdftex.def)             Requested size: 345.0pt x 195.66422pt.
-
-Overfull \hbox (24.90335pt too wide) in paragraph at lines 166--173
-\OT1/cmr/m/n/10 Die Einf^^?uhrung der "App auf Rezept" als Regelleis-tung der G
-eset-zlichen Krankenkasse
+[18]
+Overfull \hbox (2.81981pt too wide) in paragraph at lines 178--179
+[]\OT1/cmr/m/n/10 Die Zu-stim-mung an zur "Ge-ne-ral Da-ta Pro-tec-ti-on Re-gu-
+la-ti-on"(GDPR). 
  []
 
-
-Overfull \hbox (17.93587pt too wide) in paragraph at lines 166--173
-\OT1/cmr/m/n/10 Krankheiten in der Form einzi-gar-tig. Seit der Einf^^?uhrung d
-es Digitalen-Versorgungs-
- []
-
-[17]
-Overfull \hbox (5.04202pt too wide) in paragraph at lines 176--177
-[]\OT1/cmr/m/n/10 Die Zus-tim-mung an zur "Gen-eral Data Pro-tec-tion Reg-u-la-
-tion" (GDPR). 
- []
-
-[18 <./grafiken/venn_diagramm_anforderungen.png>]
-<./grafiken/abbildung-diga-versus-pecan.png, id=90, 1138.2525pt x 569.87906pt>
+[19 <./grafiken/venn_diagramm_anforderungen.png>]
+<./grafiken/abbildung-diga-versus-pecan.png, id=94, 1138.2525pt x 569.87906pt>
 File: ./grafiken/abbildung-diga-versus-pecan.png Graphic file (type png)
 <use ./grafiken/abbildung-diga-versus-pecan.png>
 Package pdftex.def Info: ./grafiken/abbildung-diga-versus-pecan.png  used on in
-put line 190.
+put line 192.
 (pdftex.def)             Requested size: 258.75pt x 129.54768pt.
- [19 <./grafiken/abbildung-diga-versus-pecan.png>]
-<./grafiken/belgien_validation_pyramide.png, id=96, 521.69907pt x 237.88875pt>
+ [20 <./grafiken/abbildung-diga-versus-pecan.png>]
+<./grafiken/belgien_validation_pyramide.png, id=99, 521.69907pt x 237.88875pt>
 File: ./grafiken/belgien_validation_pyramide.png Graphic file (type png)
 <use ./grafiken/belgien_validation_pyramide.png>
 Package pdftex.def Info: ./grafiken/belgien_validation_pyramide.png  used on in
-put line 203.
+put line 205.
 (pdftex.def)             Requested size: 345.0pt x 157.31558pt.
-
-Overfull \hbox (10.99995pt too wide) in paragraph at lines 210--211
-[]\OT1/cmr/m/n/10 Wie alle bish-eri-gen Eu-rop^^?aischen Ver-fahren muss die Ge
-sund-
- []
-
-[20 <./grafiken/belgien_validation_pyramide.png>]
-Overfull \hbox (23.2352pt too wide) in paragraph at lines 217--218
-[]\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung wurde vom NI-HDI auf Ba-sis von 
-vorgelegter
+ [21 <./grafiken/belgien_validation_pyramide.png>]
+Overfull \hbox (33.63945pt too wide) in paragraph at lines 220--221
+\OT1/cmr/m/n/10 te-ren ICT-Kriterien, um ei-ne si-che-re Ver-bin-dung und In-te
+-gra-ti-on zu gew[]ahrleisten,
  []
 
 
-Overfull \hbox (2.65285pt too wide) in paragraph at lines 218--219
-[]\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung muss noch fol-gende aus vie-len 
-weit-
+Overfull \hbox (13.47275pt too wide) in paragraph at lines 231--232
+\OT1/cmr/m/n/10 so-zio[]okonomischen Mehr-wert zu be-wei-sen. So-mit wird die-s
+e nur vorl[]aufig
  []
 
 
-Overfull \hbox (29.97278pt too wide) in paragraph at lines 218--219
-\OT1/cmr/m/n/10 eren ICT-Kriterien, um eine sichere Verbindung und In-te-gra-ti
-on zu gew^^?ahrleisten,
+Overfull \hbox (39.0362pt too wide) in paragraph at lines 232--233
+[]\OT1/cmr/m/n/10 Die Ge-sund-heits-an-wen-dung hat be-reits ih-ren so-zio[]oko
+nomischen
  []
 
-
-Overfull \hbox (39.0362pt too wide) in paragraph at lines 230--231
-[]\OT1/cmr/m/n/10 Die Gesund-heit-san-wen-dung hat bere-its ihren sozio^^?okono
-mischen
- []
-
-[21]
-<./grafiken/abbildung-verschreibungstrend.png, id=104, 504.38437pt x 293.59688p
+[22]
+<./grafiken/abbildung-verschreibungstrend.png, id=107, 504.38437pt x 293.59688p
 t>
 File: ./grafiken/abbildung-verschreibungstrend.png Graphic file (type png)
 <use ./grafiken/abbildung-verschreibungstrend.png>
 Package pdftex.def Info: ./grafiken/abbildung-verschreibungstrend.png  used on 
-input line 241.
+input line 243.
 (pdftex.def)             Requested size: 258.75pt x 150.61496pt.
 
-Overfull \hbox (7.30965pt too wide) in paragraph at lines 245--246
-[]\OT1/cmr/m/n/10 Seit der 1. DiGA Ver-schrei-bung 2020, gibt es einen ein-deut
-i-gen Aufw^^?artstrend,
+Overfull \hbox (5.23555pt too wide) in paragraph at lines 247--248
+[]\OT1/cmr/m/n/10 Seit der 1. Di-GA Ver-schrei-bung 2020, gibt es einen ein-deu
+-ti-gen Aufw[]artstrend,
+ []
+
+[23 <./grafiken/abbildung-verschreibungstrend.png>]
+Overfull \hbox (17.62917pt too wide) in paragraph at lines 252--252
+[]\OT1/cmr/bx/n/12 Wie steht Deutsch-land im Ver-gleich zu an-de-ren L[]andern?
+ 
+ []
+
+[24] [25]
+<./grafiken/unterschrift.png, id=119, 213.79875pt x 84.315pt>
+File: ./grafiken/unterschrift.png Graphic file (type png)
+<use ./grafiken/unterschrift.png>
+Package pdftex.def Info: ./grafiken/unterschrift.png  used on input line 269.
+(pdftex.def)             Requested size: 86.25pt x 34.01357pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--272
+
  []
 
 
-Overfull \hbox (16.91733pt too wide) in paragraph at lines 249--250
-\OT1/cmr/m/n/10 Nimmt man alle In-for-ma-tio-nen die in Kapi-tel 3 und dessen u
-nter Kapi-tel beschrieben
+Underfull \hbox (badness 10000) in paragraph at lines 258--272
+
  []
 
 
-Overfull \hbox (2.36172pt too wide) in paragraph at lines 249--250
-\OT1/cmr/m/n/10 tun-gen wie Kranken-haus Tagen, Am-bu-lanten Arztbe-suche oder 
-^^?ahnlichem liegen. 
- []
+Underfull \hbox (badness 10000) in paragraph at lines 258--272
 
-[22 <./grafiken/abbildung-verschreibungstrend.png>]
-Overfull \hbox (17.62917pt too wide) in paragraph at lines 250--250
-[]\OT1/cmr/bx/n/12 Wie steht Deutsch-land im Ver-gle-ich zu an-deren L^^?andern
-? 
  []
 
 
-Overfull \hbox (11.2783pt too wide) in paragraph at lines 253--254
-\OT1/cmr/m/n/10 jetzt wur-den fast 50 % aller gestell-ten Antr^^?age vom Her-st
-eller selbst zur^^?uckgezogen,
+Underfull \hbox (badness 10000) in paragraph at lines 258--272
+
  []
 
-(seminar_arbeit_m_health.bbl [23]
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
-[]\OT1/cmr/m/n/10 J. W. M. B. V. Prof. Dr. Wolf-gang Greiner, Daniel Gen-
+
+Underfull \hbox (badness 10000) in paragraph at lines 258--272
+
  []
 
-) [24] (seminar_arbeit_m_health.aux)
+[26 <./grafiken/unterschrift.png>] (seminar_arbeit_m_health.bbl
+Underfull \hbox (badness 1442) in paragraph at lines 4--7
+[]\OT1/cmr/m/n/10 Validation py-ra-mid.  Web-si-te.  URL: $\OT1/cmtt/m/n/10 htt
+ps : / / mhealthbelgium . be /
+ []
+
+
+Underfull \hbox (badness 1137) in paragraph at lines 15--19
+[]\OT1/cmr/m/n/10 BfArM.  Wis-sens-wer-tes zu di-ga.  URL: $\OT1/cmtt/m/n/10 ht
+tps : / / www . bfarm . de / DE /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--19
+\OT1/cmtt/m/n/10 Medizinprodukte / Aufgaben / DiGA-[]und-[]DiPA / DiGA / Wissen
+swertes /
+ []
+
+
+Overfull \hbox (8.3027pt too wide) in paragraph at lines 35--41
+\OT1/cmtt/m/n/10 dtx-[]how-[]to-[]get-[]reimbursed-[]in-[]the-[]eu-[]uk-[]and-[
+]the-[]us-[]an-[]overview-[] \
+ []
+
+
+Underfull \hbox (badness 1365) in paragraph at lines 43--48
+[]\OT1/cmr/m/n/10 Digital Oxy-gen.  Pe-can im []Uberblick.  Web-si-te.  URL: $\
+OT1/cmtt/m/n/10 https : / /
+ []
+
+
+Underfull \hbox (badness 1424) in paragraph at lines 50--57
+[]\OT1/cmr/m/n/10 Jana Diek-manns-hem-ke Dr. Ju-li-an Wit-te Dr. Ka-tha-ri-na W
+ei-ne Prof.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 50--57
+\OT1/cmtt/m/n/10 tk . de / resource / blob / 2170850 / e7eaa59ecbc0488b415409d5
+d3a354cf /
+ []
+
+) [27] (seminar_arbeit_m_health.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-04-11>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 1618 strings out of 474370
- 31900 string characters out of 5750350
- 1935754 words of memory out of 5000000
- 24045 multiletter control sequences out of 15000+600000
- 563005 words of font info for 52 fonts, out of 8000000 for 9000
+ 3351 strings out of 474370
+ 64048 string characters out of 5750350
+ 1937754 words of memory out of 5000000
+ 25719 multiletter control sequences out of 15000+600000
+ 563173 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 57i,7n,65p,1879b,238s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,7n,67p,1879b,295s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
-/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on seminar_arbeit_m_health.pdf (24 pages, 1349273 bytes).
+/cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
+:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on seminar_arbeit_m_health.pdf (27 pages, 1416396 bytes).
 PDF statistics:
- 152 PDF objects out of 1000 (max. 8388607)
+ 169 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 81 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
 

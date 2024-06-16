@@ -1,57 +1,62 @@
 This is BibTeX, Version 0.99d
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: seminar_arbeit_m_health.aux
-Reallocating 'name_of_file' (item size: 1) to 6 items.
-The style file: abbrv.bst
-Reallocating 'name_of_file' (item size: 1) to 23 items.
-Database file #1: seminar_arbeit_marcelo.bib
+Reallocating 'name_of_file' (item size: 1) to 9 items.
+The style file: plainurl.bst
+Reallocating 'name_of_file' (item size: 1) to 8 items.
+Reallocating 'glb_str_end' (item size: 4) to 20 items.
+Reallocating 'glb_str_ptr' (item size: 4) to 20 items.
+Reallocating 'global_strs' (item size: 1) to 4000000 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Reallocating 'singl_function' (item size: 4) to 100 items.
+Database file #1: quellen.bib
 Warning--entry type for "wissenswertes-diga" isn't style-file defined
---line 51 of file seminar_arbeit_marcelo.bib
+--line 53 of file quellen.bib
 Warning--entry type for "tipps-diga-antragsansteller" isn't style-file defined
---line 65 of file seminar_arbeit_marcelo.bib
+--line 67 of file quellen.bib
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1049 of file abbrv.bst
+while executing---line 1441 of file plainurl.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1049 of file abbrv.bst
+while executing---line 1441 of file plainurl.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Daniel Gensorowsky(Universität Bielefeld), Julian Witte, Manuel Batram (Vandage)" for entry TK-diga-report-1
-while executing---line 1049 of file abbrv.bst
+while executing---line 1441 of file plainurl.bst
 Warning--to sort, need author or key in belgien-pyramide
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1090 of file abbrv.bst
+while executing---line 1483 of file plainurl.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Dr. Daniel Gensorowsky, Jana Diekmannshemke, Dr. Julian Witte, Dr. Katharina Weine" for entry TK-Report-2
-while executing---line 1090 of file abbrv.bst
+while executing---line 1483 of file plainurl.bst
 Too many commas in name 1 of "Prof. Dr. Wolfgang Greiner, Daniel Gensorowsky(Universität Bielefeld), Julian Witte, Manuel Batram (Vandage)" for entry TK-diga-report-1
-while executing---line 1090 of file abbrv.bst
+while executing---line 1483 of file plainurl.bst
 You've used 9 entries,
-            2118 wiz_defined-function locations,
-            532 strings with 4704 characters,
-and the built_in function-call counts, 1937 in all, are:
-= -- 180
-> -- 57
+            2943 wiz_defined-function locations,
+            678 strings with 6851 characters,
+and the built_in function-call counts, 3203 in all, are:
+= -- 336
+> -- 68
 < -- 2
 + -- 25
 - -- 16
-* -- 68
-:= -- 315
-add.period$ -- 24
+* -- 95
+:= -- 435
+add.period$ -- 34
 call.type$ -- 9
 change.case$ -- 35
 chr.to.int$ -- 0
 cite$ -- 10
-duplicate$ -- 81
-empty$ -- 200
+duplicate$ -- 99
+empty$ -- 376
 format.name$ -- 16
-if$ -- 430
+if$ -- 910
 int.to.chr$ -- 0
 int.to.str$ -- 9
 missing$ -- 2
-newline$ -- 45
+newline$ -- 55
 num.names$ -- 16
-pop$ -- 66
+pop$ -- 110
 preamble$ -- 1
 purify$ -- 26
 quote$ -- 0
-skip$ -- 81
+skip$ -- 275
 stack$ -- 0
 substring$ -- 53
 swap$ -- 19
@@ -62,5 +67,5 @@ type$ -- 36
 warning$ -- 1
 while$ -- 18
 width$ -- 10
-write$ -- 84
+write$ -- 104
 (There were 6 error messages)

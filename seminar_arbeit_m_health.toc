@@ -1,22 +1,24 @@
-\contentsline {section}{\numberline {1}Grundlagen}{3}{}%
-\contentsline {subsection}{\numberline {1.1}Was ist eine "DiGA"?}{3}{}%
-\contentsline {subsection}{\numberline {1.2}Fast-Track-Verfahren}{4}{}%
-\contentsline {section}{\numberline {2}Informationen zu den DiGAs}{5}{}%
-\contentsline {subsection}{\numberline {2.1}Fast-Track-Verfahren}{5}{}%
-\contentsline {subsection}{\numberline {2.2}Preise und Vergütungsbeiträge der DiGAs}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{10}{}%
-\contentsline {section}{\numberline {3}Informationen zu den Nutzern und Verordneden}{11}{}%
-\contentsline {subsection}{\numberline {3.1}Nutzer und Verordneden}{11}{}%
-\contentsline {subsection}{\numberline {3.2}Vergleich von Nutzern und Nicht-Nutzern von DiGA}{13}{}%
-\contentsline {subsection}{\numberline {3.3}Leistungsinanspruchnahmen von Nutzer und Nicht-Nutzern}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Akzeptanz der Nutzer}{15}{}%
-\contentsline {section}{\numberline {4}Der Status Quo von DiGA in anderen Ländern}{17}{}%
-\contentsline {subsection}{\numberline {4.1}PECAN-Verfahren}{19}{}%
-\contentsline {subsection}{\numberline {4.2}DtX in den USA}{19}{}%
-\contentsline {subsection}{\numberline {4.3}Belgiens Validierungs Pyramide}{20}{}%
-\contentsline {section}{\numberline {5}Fragen}{22}{}%
-\contentsline {subsection}{\numberline {5.1}Wie hoch ist die Verschreibungshäufigkeit?}{22}{}%
-\contentsline {subsection}{\numberline {5.2}Wer nutzt DiGAs und welche kommen dabei zu Einsatz?}{22}{}%
-\contentsline {subsection}{\numberline {5.3}Helfen DiGA?}{22}{}%
-\contentsline {subsection}{\numberline {5.4}Wie steht Deutschland im Vergleich zu anderen Ländern?}{23}{}%
-\contentsline {section}{\numberline {6}Fazit}{23}{}%
+\babel@toc {ngerman}{}\relax 
+\contentsline {section}{\numberline {1}Grundlagen}{4}{}%
+\contentsline {subsection}{\numberline {1.1}Was ist eine "DiGA"?}{4}{}%
+\contentsline {subsection}{\numberline {1.2}Fast-Track-Verfahren}{5}{}%
+\contentsline {section}{\numberline {2}Informationen zu den DiGAs}{6}{}%
+\contentsline {subsection}{\numberline {2.1}Fast-Track-Verfahren}{6}{}%
+\contentsline {subsection}{\numberline {2.2}Preise und Vergütungsbeiträge der DiGAs}{8}{}%
+\contentsline {subsection}{\numberline {2.3}Anwendungsgebiete}{11}{}%
+\contentsline {section}{\numberline {3}Informationen zu den Nutzern und Verordneden}{12}{}%
+\contentsline {subsection}{\numberline {3.1}Nutzer und Verordneden}{12}{}%
+\contentsline {subsection}{\numberline {3.2}Vergleich von Nutzern und Nicht-Nutzern von DiGA}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Leistungsinanspruchnahmen von Nutzer und Nicht-Nutzern}{15}{}%
+\contentsline {subsection}{\numberline {3.4}Akzeptanz der Nutzer}{16}{}%
+\contentsline {section}{\numberline {4}Der Status Quo von DiGA in anderen Ländern}{18}{}%
+\contentsline {subsection}{\numberline {4.1}PECAN-Verfahren}{20}{}%
+\contentsline {subsection}{\numberline {4.2}DtX in den USA}{20}{}%
+\contentsline {subsection}{\numberline {4.3}Belgiens Validierungs Pyramide}{21}{}%
+\contentsline {section}{\numberline {5}Fragen}{23}{}%
+\contentsline {subsection}{\numberline {5.1}Wie hoch ist die Verschreibungshäufigkeit?}{23}{}%
+\contentsline {subsection}{\numberline {5.2}Wer nutzt DiGAs und welche kommen dabei zu Einsatz?}{23}{}%
+\contentsline {subsection}{\numberline {5.3}Helfen DiGA?}{23}{}%
+\contentsline {subsection}{\numberline {5.4}Wie steht Deutschland im Vergleich zu anderen Ländern?}{24}{}%
+\contentsline {section}{\numberline {6}Fazit}{24}{}%
+\contentsline {section}{\numberline {7}Eigenständigkeitserklärung}{26}{}%
