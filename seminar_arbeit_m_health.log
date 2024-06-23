@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.16)  16 JUN 2024 19:55
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.6.16)  23 JUN 2024 17:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -177,13 +177,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 \tf@toc=\write3
 \openout3 = `seminar_arbeit_m_health.toc'.
 
- [2] (seminar_arbeit_m_health.lof
-Overfull \hbox (3.70891pt too wide) in paragraph at lines 7--7
- [][] []\OT1/cmr/m/n/10 Gegen[]uberstellung der frei-en Her-stel-ler-prei-se un
-d ver-in-bar-ten oder 
- []
-
-)
+ [2] (seminar_arbeit_m_health.lof)
 \tf@lof=\write4
 \openout4 = `seminar_arbeit_m_health.lof'.
 
@@ -235,13 +229,7 @@ Package pdftex.def Info: ./grafiken/tabelle_preise_diga.png  used on input line
  79.
 (pdftex.def)             Requested size: 258.75pt x 256.59969pt.
  [8 <./grafiken/anwendungszeitraume_diga.png>] [9 <./grafiken/tabelle_preise_di
-ga.png>]
-Overfull \hbox (0.36171pt too wide) in paragraph at lines 86--87
-\OT1/cmr/m/n/10 Al-ter-na-tiv zum vor-he-ri-gen Vor-schlag, w[]are ei-ne ver-pf
-lich-ten-de R[]ucklagenbildung
- []
-
-[10]
+ga.png>] [10]
 <./grafiken/tabelle_anwendungsfelder_diga.png, id=50, 449.42906pt x 512.66531pt
 >
 File: ./grafiken/tabelle_anwendungsfelder_diga.png Graphic file (type png)
@@ -263,8 +251,9 @@ File: ./grafiken/tabelle_nutzung_versicherte_diga.png Graphic file (type png)
 Package pdftex.def Info: ./grafiken/tabelle_nutzung_versicherte_diga.png  used 
 on input line 110.
 (pdftex.def)             Requested size: 172.5pt x 166.6942pt.
- [12 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versicher
-te_diga.png>]
+
+[12 <./grafiken/tab_diga_verteilung.png> <./grafiken/tabelle_nutzung_versichert
+e_diga.png>]
 <./grafiken/abbildung_verordnungen_pro_verordneten_diga.png, id=63, 227.34938pt
  x 223.58531pt>
 File: ./grafiken/abbildung_verordnungen_pro_verordneten_diga.png Graphic file (
@@ -282,10 +271,11 @@ ype png)
 Package pdftex.def Info: ./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.
 png  used on input line 128.
 (pdftex.def)             Requested size: 258.75pt x 279.6187pt.
- [14 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>] [15]
-Overfull \hbox (9.0006pt too wide) in paragraph at lines 140--141
-\OT1/cmr/m/n/10 ta-ti-ve Ver-sor-gungs-for-schung er-for-der-lich. Da-bei sol-l
-en auch Aspek-te ber[]ucksichtigt
+
+[14 <./grafiken/tabelle_vergleich_nutzer_nicht_nutzer_diga.png>] [15]
+Overfull \hbox (20.8478pt too wide) in paragraph at lines 140--141
+\OT1/cmr/m/n/10 DiGA-Nutzerinnen und -Nutzern, ih-re Ur-sa-chen und ins-be-son-
+de-re die Ver[]anderungen
  []
 
 [16]
@@ -367,30 +357,30 @@ Overfull \hbox (17.62917pt too wide) in paragraph at lines 252--252
 <./grafiken/unterschrift.png, id=119, 213.79875pt x 84.315pt>
 File: ./grafiken/unterschrift.png Graphic file (type png)
 <use ./grafiken/unterschrift.png>
-Package pdftex.def Info: ./grafiken/unterschrift.png  used on input line 269.
+Package pdftex.def Info: ./grafiken/unterschrift.png  used on input line 270.
 (pdftex.def)             Requested size: 86.25pt x 34.01357pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--273
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 258--272
+Underfull \hbox (badness 10000) in paragraph at lines 259--273
 
  []
 
@@ -485,7 +475,7 @@ Here is how much of TeX's memory you used:
  25722 multiletter control sequences out of 15000+600000
  563173 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 59i,7n,67p,1879b,296s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 59i,7n,67p,1881b,296s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\mcthi\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1000.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -494,7 +484,7 @@ s/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files/MiKTeX/fonts/type1/publi
 c/amsfonts/cm/cmr17.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm
 /cmr7.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C
 :/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on seminar_arbeit_m_health.pdf (27 pages, 1417014 bytes).
+Output written on seminar_arbeit_m_health.pdf (27 pages, 1417475 bytes).
 PDF statistics:
  170 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
